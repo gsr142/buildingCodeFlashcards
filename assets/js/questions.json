@@ -1,0 +1,308 @@
+[
+  {
+    "question": "Oversized fire doors must bear what kind of marking?",
+    "choices": ["Fire door label", "Manufacturer test standard and finish classification", "Manufacturer test standards", "Manufacturer test standard and the fire-resistance rating"],
+    "code_reference": "2024 IBC 716.2.9.2",
+    "correct_answer": "button1"
+  },
+  {
+    "question": "A type of load imposed by the designed use and operation within a structure is defined as?",
+    "choices": ["Dead load", "Common load", "Live load", "Shifting load"],
+    "code_reference": "2024 IBC 1607.3",
+    "correct_answer": "button3"
+  },
+  {
+    "question": "Special inspections are in addition to those required in which section?",
+    "choices": ["110", "713.2.1", "840.2.1", "911.1.1"],
+    "code_reference": "2024 IBC 1704.2",
+    "correct_answer": "button1"
+  },
+  {
+    "question": "Cooling towers located on a roof of a building shall be constructed of non-combustible materials when the base area of the cooling tower is greater than how many square feet?",
+    "choices": ["100 sq ft", "500 sq ft", "150 sq ft", "250 sq ft"],
+    "code_reference": "2024 IBC 1511.4",
+    "correct_answer": "button4"
+  },
+  {
+    "question": "A cricket or saddle must be installed on the ridge side of any chimney that is greater than what width?",
+    "choices": ["30 in", "20 in", "15 in", "25 in"],
+    "code_reference": "2024 IBC 1503.5",
+    "correct_answer": "button1"
+  },
+  {
+    "question": "What shall be the maximum flame spread index of foam plastic insulation?",
+    "choices": ["75", "200", "250", "100"],
+    "code_reference": "2024 IBC 2603.3",
+    "correct_answer": "button1"
+  },
+  {
+    "question": "When interior finishes are attached to furring strips attached directly to a fire-resistance rated structure the furring strips shall not exceed what dimension?",
+    "choices": ["5 in", "6 in", "1 3/4 in", "2 1/2 in"],
+    "code_reference": "2024 IBC 803.15.1",
+    "correct_answer": "button3"
+  },
+  {
+    "question": "The collapsing force of a revolving door used as a component of a means of egress system shall not be more than how much?",
+    "choices": ["100 lbs", "130 lbs", "160 lbs", "200 lbs"],
+    "code_reference": "2024 IBC 1010.3.1.1 (3)",
+    "correct_answer": "button2"
+  },
+  {
+    "question": "Thresholds for sliding doors serving means of egress in a dwelling unit shall not exceed what height above the finished floor?",
+    "choices": ["4/16 in", "1 in", "1/2 in", "3/4 in"],
+    "code_reference": "2024 IBC 1010.1.6",
+    "correct_answer": "button4"
+  },
+  {
+    "question": "What is the height range above a finished floor or step in which handrails shall be located?",
+    "choices": ["36 in by 48 in", "34 in by 38 in", "24 in by 24 in", "36 in by 36 in"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "Chimneys shall extend how much more than any portion of the building within 10 feet?",
+    "choices": ["2 ft", "6 ft", "3 ft", "1 ft"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "Wire must be used to secure ceiling panels when they cannot withstand how much upward pressure?",
+    "choices": ["15 lbs", "20 lbs", "5 lbs", "1 lbs"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "A furnace room containing a single piece of equipment of greater than 400,000 Btu per hour shall be provided with what kind of protection?",
+    "choices": ["Have an approved standpipe", "Be equipped with an automatic smoke evacuation system", "Automatic sprinkler system or 1 hour separation", "Not permitted"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "Concrete masonry columns required to have a fire rating of 4 hours must have a minimum prescriptive thickness of what?",
+    "choices": ["14 in", "12 in", "20 in", "15 in"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "Which table provides the minimum protection of structural parts based on the time periods for various noncombustible insulating materials?",
+    "choices": ["721.1(1)", "781.2.5", "735.2.4", "712.8(5)"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "When is an automatic sprinkler system required in an aircraft control tower?",
+    "choices": ["When there is an occupied floor more than 25 ft above the lowest fire department access", "When there is an occupied floor more than 35 ft above the lowest fire department access", "When there is an occupied floor more than 40 ft above the lowest fire department access", "When there is an occupied floor more than 50 ft above the lowest fire department access"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "What is the minimum fire separation distance for an exterior wall projection from a line of 24 inches?",
+    "choices": ["2 to 3 ft", "5 to 10 ft", "15 ft", "20 ft"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "When is an automatic sprinkler system required in Group A-4 occupancies?",
+    "choices": ["Fire area exceeds 11000 square feet", "Fire area has an occupant load of 200 or more", "Fire area has an occupant load of 300 or more", "Fire area exceeds 1000 square feet"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "Exit signs shall have what kind of emergency or standby power provided?",
+    "choices": ["Emergency power", "Standby Power", "Emergency or standby power", "Generator power"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "What is an example of Group I-3?",
+    "choices": ["Jails", "Churches", "Halfway houses", "Colleges"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "Shotcrete shall be in accordance with what standard?",
+    "choices": ["ACI 318", "ACI 550", "ACI 420", "ACI 679"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "Open parking garages must comply with which section?",
+    "choices": ["406.5", "405.3.2", "406.9.2", "409.2.5"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "What is a permanent load comprised of fixed assets?",
+    "choices": ["Live load", "Shear load", "Central load", "Dead load"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "What classification is used for buildings and structures that contain materials that pose a deflagration hazard?",
+    "choices": ["Group H-2", "Group H-1", "Group F", "Group S-2"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "Fasteners for asphalt shingles shall be of what gauge?",
+    "choices": ["6", "20", "12", "18"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "The height of a marquee shall not be greater than ______ feet, when less than two thirds of the distance from the lot line to the curb line?",
+    "choices": ["7 ft", "6 ft", "10 ft", "9 ft"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "What is the maximum area of an exterior wall opening with a 6 ft fire separation distance unprotected/sprinklered (UP/S)?",
+    "choices": ["50%", "100%", "25%", "15%"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "Ceilings in a means of egress component shall not be less than what height?",
+    "choices": ["7 ft 8 in", "8 ft", "7 ft 6 in", "9 ft"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "Stone veneer shall be less than ______ thick to use the methods described in Chapter 14 to be attached to an exterior wall?",
+    "choices": ["5 in", "12 in", "6 in", "10 in"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "When a building's highest floor level is located more than 30 feet above the lowest level of fire department vehicle access the building shall be equipped with what class standpipe?",
+    "choices": ["Class II", "Class I", "Class III", "Class IV"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "What is an example of the fifth required inspection for new buildings?",
+    "choices": ["Lath and gypsum board inspection", "Type IV-A connection protection inspection", "Energy efficiency inspection", "Special inspections"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "Above 8 feet windows, balconies, and architectural features shall be allowed how much more encroachment per inch of extra height above 8 feet?",
+    "choices": ["2 in", "3 in", "5 in", "1 in"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "What kind of fire-resistant structure is required between an anchor building and a mall?",
+    "choices": ["Fire walls complying with section 707", "Fire barriers complying with section 706", "Fire walls complying with section 706", "Fire partitions complying with section 709"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "Incidental use buildings shall not take up more than how much of the building area?",
+    "choices": ["15 percent", "10 percent", "25 percent", "35 percent"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "What is the least restrictive type of construction in regards to combustible materials?",
+    "choices": ["Type V", "Type I", "Type II", "Type III"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "At what rise do ramps require handrails?",
+    "choices": ["8 in", "6 in", "12 in", "4 in"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "Which table covers the fire resistance rating of cast in place concrete walls?",
+    "choices": ["722.3.2.1", "602", "722.2.1.1", "703.1"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "Stair risers shall have a maximum height of ______ inches?",
+    "choices": ["7 in", "8 in", "6 in", "5 1/2 in"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "Hazardous materials shall have what kind of emergency or standby power provided?",
+    "choices": ["Standby power", "Emergency power", "Emergency or standby power", "Generator power"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "When is an automatic sprinkler system required in Group A-3 occupancies?",
+    "choices": ["Fire area has an occupant load of 200 or more", "Fire area has an occupant load of 500", "Fire area has an occupant load of 300 or more", "Fire area has an occupant load of 300"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "How many days may a building official grant an extension to a permit application?",
+    "choices": ["180 Days", "75 Days", "360 Days", "90 Days"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "What minimum area is required in an elevator for an ambulance stretcher?",
+    "choices": ["24 in by 84 in", "36 in by 48 in", "84 in by 84 in", "36 in by 84 in"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "What grade of asphalt felt shall be attached to studs to provide a continuous water barrier?",
+    "choices": ["No. 20", "Grade 8", "Type II", "No. 15"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "A group A occupancy shall be separated from a group I-2 occupancy by how many hours when the building is sprinklered?",
+    "choices": ["1 hour", "2 hour", "3 hour", "4 hour"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "What is the minimum thickness of a vapor retarder for a slab supported directly on the ground?",
+    "choices": ["10 mil", "6 mil", "4 mil", "12 mil"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "What shall care suites in a group I-2 occupancy be separated by?",
+    "choices": ["Smoke partition", "Fire barrier", "Fire wall", "Smoke barrier"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "What class of standpipe shall be provided in a non-sprinklered Group A building with an occupant load exceeding 1000?",
+    "choices": ["Class IV", "Class I", "Class III", "Class V"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "The maximum height in feet of a building shall not exceed the limits in which table?",
+    "choices": ["504.3", "502.6", "403.1", "505.2"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "The minimum width of each door included in the means of egress shall be what?",
+    "choices": ["20 in", "40 in", "32 in", "72 in"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "What shall atrium spaces be separated from adjacent spaces with?",
+    "choices": ["1 hour fire barrier", "1/2 hour fire barrier", "2 hour fire barrier", "No separation is required"],
+    "code_reference": "",
+    "correct_answer": ""
+  },
+  {
+    "question": "Emergency power systems shall be designed to provide the required power for a minimum duration of ______ hours?",
+    "choices": ["1", "2", "3", "4"],
+    "code_reference": "",
+    "correct_answer": ""
+  }
+]
