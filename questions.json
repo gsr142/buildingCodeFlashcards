@@ -3,55 +3,55 @@
     "question": "Oversized fire doors must bear what kind of marking?",
     "choices": ["Fire door label", "Manufacturer test standard and finish classification", "Manufacturer test standards", "Manufacturer test standard and the fire-resistance rating"],
     "code_reference": "2024 IBC 716.2.9.2",
-    "correct_answer": "button1"
+    "correct_answer": "Fire door label"
   },
   {
     "question": "A type of load imposed by the designed use and operation within a structure is defined as?",
     "choices": ["Dead load", "Common load", "Live load", "Shifting load"],
     "code_reference": "2024 IBC 1607.3",
-    "correct_answer": "button3"
+    "correct_answer": "Live load"
   },
   {
     "question": "Special inspections are in addition to those required in which section?",
     "choices": ["110", "713.2.1", "840.2.1", "911.1.1"],
     "code_reference": "2024 IBC 1704.2",
-    "correct_answer": "button1"
+    "correct_answer": "110"
   },
   {
     "question": "Cooling towers located on a roof of a building shall be constructed of non-combustible materials when the base area of the cooling tower is greater than how many square feet?",
     "choices": ["100 sq ft", "500 sq ft", "150 sq ft", "250 sq ft"],
     "code_reference": "2024 IBC 1511.4",
-    "correct_answer": "button4"
+    "correct_answer": "250 sq ft"
   },
   {
     "question": "A cricket or saddle must be installed on the ridge side of any chimney that is greater than what width?",
     "choices": ["30 in", "20 in", "15 in", "25 in"],
     "code_reference": "2024 IBC 1503.5",
-    "correct_answer": "button1"
+    "correct_answer": "30 in"
   },
   {
     "question": "What shall be the maximum flame spread index of foam plastic insulation?",
     "choices": ["75", "200", "250", "100"],
     "code_reference": "2024 IBC 2603.3",
-    "correct_answer": "button1"
+    "correct_answer": "75"
   },
   {
     "question": "When interior finishes are attached to furring strips attached directly to a fire-resistance rated structure the furring strips shall not exceed what dimension?",
     "choices": ["5 in", "6 in", "1 3/4 in", "2 1/2 in"],
     "code_reference": "2024 IBC 803.15.1",
-    "correct_answer": "button3"
+    "correct_answer": "1 3/4 in"
   },
   {
     "question": "The collapsing force of a revolving door used as a component of a means of egress system shall not be more than how much?",
     "choices": ["100 lbs", "130 lbs", "160 lbs", "200 lbs"],
     "code_reference": "2024 IBC 1010.3.1.1 (3)",
-    "correct_answer": "button2"
+    "correct_answer": "130 lbs"
   },
   {
     "question": "Thresholds for sliding doors serving means of egress in a dwelling unit shall not exceed what height above the finished floor?",
     "choices": ["4/16 in", "1 in", "1/2 in", "3/4 in"],
     "code_reference": "2024 IBC 1010.1.6",
-    "correct_answer": "button4"
+    "correct_answer": "3/4 in"
   },
   {
     "question": "What is the height range above a finished floor or step in which handrails shall be located?",
