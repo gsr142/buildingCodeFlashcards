@@ -15,11 +15,12 @@ if "show_answer" not in st.session_state:
 
 # --- Load and shuffle questions ---
 questions = load_questions()
+# next feature to add: randomize the order of the questions
 
 # --- Get current question ---
 current = questions[st.session_state.question_index]
 
-st.title("🧠 Flashcard Quiz")
+st.title("B2 Flashcard Quiz")
 
 st.subheader(current["question"])
 on = st.toggle("Show Code Reference", False)
