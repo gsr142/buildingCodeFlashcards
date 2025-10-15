@@ -22,9 +22,12 @@ current = questions[st.session_state.question_index]
 st.title("🧠 Flashcard Quiz")
 
 st.subheader(current["question"])
+on = st.toggle("Show Code Reference", False)
+if on:
+    st.write(f"Code Reference: {current["code_reference"]}")
 
 # --- User selects an answer ---
-selected = st.radio(f"Code Reference {current["code_reference"]}", current["choices"], key=f"q{st.session_state.question_index}")
+selected = st.radio("Answer", current["choices"], key=f"q{st.session_state.question_index}")
 
 # --- Check answer ---
 if st.button("Submit"):
