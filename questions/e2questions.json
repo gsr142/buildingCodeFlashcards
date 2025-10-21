@@ -1,0 +1,602 @@
+[
+  {
+    "question": "Test reports of outside branch circuits and feeders exceeding 1000 volts nominal, if required, shall be delivered to whom prior to energization?",
+    "choices": ["Homeowners association", "Engineer", "Power company having jurisdiction", "Jurisdiction having authority"],
+    "code_reference": "2023 NEC 235.356 (B)",
+    "correct_answer": "Jurisdiction having authority"
+  },
+  {
+    "question": "Thermoplastic insulated fixture wire shall be marked at intervals not exceeding ______ inches?",
+    "choices": ["22 in", "20 in", "24 in", "19 in"],
+    "code_reference": "2023 NEC 402.9",
+    "correct_answer": "24 in"
+  },
+  {
+    "question": "Where cable assemblies with nonmetallic sheaths are used and extend into boxes through cable clamps, the sheath shall extend not less than ______ inch inside the box?",
+    "choices": ["1/6", "1/8", "1/2", "1/4"],
+    "code_reference": "2023 NEC 314.17 (B)(2)",
+    "correct_answer": "1/4"
+  },
+  {
+    "question": "Branch circuit grounding conductors shall never be electrically connected to a grounded conductor of the system supplying the auto-transformer?",
+    "choices": ["True", "False"],
+    "code_reference": "2023 NEC 210.9",
+    "correct_answer": "False"
+  },
+  {
+    "question": "An open conductor assembly, less than 150 volts to ground, run overhead across a sidewalk shall have a minimum clearance above the sidewalk of ______ feet?",
+    "choices": ["13.5 ft", "10 ft", "12 ft", "8.5 ft"],
+    "code_reference": "2023 NEC 225.18 (1)",
+    "correct_answer": "10 ft"
+  },
+  {
+    "question": "Overhead service drop conductors shall not be smaller than ______ AWG copper.",
+    "choices": ["6", "8", "4", "3"],
+    "code_reference": "2023 NEC 230.23 (B)",
+    "correct_answer": "8"
+  },
+  {
+    "question": "An enclosed channel of metal or nonmetallic materials designed expressly, with additional functions as permitted in this code is defined as?",
+    "choices": ["Conduit", "Raceway", "Circuit", "Casing"],
+    "code_reference": "2023 NEC 100 Definitions",
+    "correct_answer": "Raceway"
+  },
+  {
+    "question": "Arc equipment that is less than ______ feet above the floor level and that may produce arcs, sparks, or particles of hot metal shall be of the totally enclosed type?",
+    "choices": ["10", "5", "12", "8"],
+    "code_reference": "2023 NEC 511.7 (B)(1)(A)",
+    "correct_answer": "12"
+  },
+  {
+    "question": "Metal faceplates in healthcare facilities, shall be permitted to be grounded by means of ______ screws securing the faceplate to a metal box?",
+    "choices": ["Metal", "Anodized", "Blue", "Orange"],
+    "code_reference": "2023 NEC 517.13 (B)(1) Exception 2",
+    "correct_answer": "Metal"
+  },
+  {
+    "question": "Appliance receptacle outlets installed in a dwelling unit for specific appliances, such as laundry equipment, shall be installed within _______ feet of the intended location of the appliance?",
+    "choices": ["4", "6", "5", "10"],
+    "code_reference": "2023 NEC 210.50 (C)",
+    "correct_answer": "6"
+  },
+  {
+    "question": "Receptacle outlets in floors shall not be counted as part of the required number of receptacle outlets unless located within ______ inches of the wall?",
+    "choices": ["12", "16", "18", "10"],
+    "code_reference": "2023 NEC 210.52 (A)(3)",
+    "correct_answer": "18"
+  },
+  {
+    "question": "In patient care spaces, luminaries located more than ______ feet above the floor and switches located outside of the patient care vicinity shall be permitted to be connected to an equipment grounding return path?",
+    "choices": ["7 1/2", "2", "8", "8 1/2"],
+    "code_reference": "2023 NEC 517.13",
+    "correct_answer": "7 1/2"
+  },
+  {
+    "question": "Type S fuses shall be of what type?",
+    "choices": ["Plug", "Cord", "Pinned", "Stab"],
+    "code_reference": "2023 NEC 240.53",
+    "correct_answer": "Plug"
+  },
+  {
+    "question": "Generally, open multiconductor service cables, less than 1000 volts nominal, shall have a clearance of how much above roofs?",
+    "choices": ["8 ft 6 in", "4 ft 6 in", "6 ft 6 in", "10 ft 6 in"],
+    "code_reference": "2023 NEC 225.19 (A)",
+    "correct_answer": "8 ft 6 in"
+  },
+  {
+    "question": "A non-metallic cable shall be secured at intervals not exceeding _______ feet and within _______ inches of the box?",
+    "choices": ["6 1/2, 10", "4 1/4, 8", "4 1/8, 10", "4 1/2, 12"],
+    "code_reference": "2023 NEC 334.30",
+    "correct_answer": "4 1/2, 12"
+  },
+  {
+    "question": "When type IMC conduit is threaded in the field, a standard cutting die with a taper of 1 in 16 or _________ per foot shall be used?",
+    "choices": ["3/4", "1/4", "1/6", "1/2"],
+    "code_reference": "2023 NEC 342.28",
+    "correct_answer": "3/4"
+  },
+  {
+    "question": "Class II locations are those that are hazardous because of the presence of ______?",
+    "choices": ["Combustible fibers", "Flammable liquids", "Combustible dust", "Combustible liquids"],
+    "code_reference": "2023 NEC 500.5 (C)",
+    "correct_answer": "Combustible dust"
+  },
+  {
+    "question": "The overhead conductors between the service point and the first point of connection to the service-entrance conductors at the building or other structure are defined as?",
+    "choices": ["Service drop", "Main power, overhead", "Service conductor, overhead", "Main power conductor"],
+    "code_reference": "2023 NEC 100 Definitions",
+    "correct_answer": "Service conductor, overhead"
+  },
+  {
+    "question": "What is the demand factor for household electric clothes dryers when there are 5 present?",
+    "choices": ["80", "55", "85", "60"],
+    "code_reference": "2023 NEC 220.54",
+    "correct_answer": "85"
+  },
+  {
+    "question": "A single panel or group of panel units designed for assembly in the form of a single panel, including buses and automatic overcurrent devices, and equipped with or without switches for the control of light, heat or power circuits.",
+    "choices": ["Main panel", "Sub panel", "Panel board", "Control panel"],
+    "code_reference": "2023 NEC 100 Definitions",
+    "correct_answer": "Panel board"
+  },
+  {
+    "question": "For 18 AWG copper wire, what is one acceptable fuse class for overcurrent protection?",
+    "choices": ["Class FS", "Class CA", "Class CC", "Class CM"],
+    "code_reference": "2023 NEC 240.4 (D)(1)(2)(c)",
+    "correct_answer": "Class CC"
+  },
+  {
+    "question": "Cable type FMC shall be surely fastened in place by an approved means, within ______ inches of each box?",
+    "choices": ["12", "10", "6", "8"],
+    "code_reference": "2023 NEC 348.30 (A)",
+    "correct_answer": "12"
+  },
+  {
+    "question": "Circuit breakers used as switches in a fluorescent lighting circuit shall be listed and shall be marked what?",
+    "choices": ["SWD", "HID", "SWD or RFID", "SWD or HID"],
+    "code_reference": "2023 NEC 240.83 (D)",
+    "correct_answer": "SWD or HID"
+  },
+  {
+    "question": "Where nonmetallic sheathed cable or multi-conductor Type UF cable is used with a single box not larger than 2 1/4 inches by 4 inches mounted in walls or ceilings, the cable shall be fastened within ______ inches of the box such that securing the cable to the box is not required?",
+    "choices": ["7", "8", "5", "4"],
+    "code_reference": "2023 NEC 314.17 (B)(2)",
+    "correct_answer": "8"
+  },
+  {
+    "question": "Unless otherwise permitted, the general minimum size of electrical flexible metal conduit (FMC) is ______ inches electrical trade size?",
+    "choices": ["1/8", "1/6", "1/4", "1/2"],
+    "code_reference": "2023 NEC 348.20 (A)",
+    "correct_answer": "1/2"
+  },
+  {
+    "question": "Electrical equipment immersed in a protective liquid in such a way that an explosive atmosphere may be above the liquid or outside the enclosure cannot be ignited.",
+    "choices": ["Fluid separation", "Fluid coupling", "Oil separation", "Oil immersion"],
+    "code_reference": "2023 NEC 100",
+    "correct_answer": "Oil immersion"
+  },
+  {
+    "question": "Each conduit run passing through Class 1 - Division 2 locations into an unclassified location shall be ______ at the boundary?",
+    "choices": ["Terminated", "Capped", "Killed", "Sealed"],
+    "code_reference": "2023 NEC 501.15(B)(2)",
+    "correct_answer": "Sealed"
+  },
+  {
+    "question": "Thermal insulation shall not be installed within what dimension above a recessed luminaire enclosure?",
+    "choices": ["3 in", "4 in", "5 in", "6 in"],
+    "code_reference": "2023 NEC 410.116 (B)",
+    "correct_answer": "3 in"
+  },
+  {
+    "question": "Metal fences surrounding a substation shall be bonded to the grounding electrode when within ______ feet of an exposed electrical conductor?",
+    "choices": ["15 ft", "14 ft", "13 ft", "16 ft"],
+    "code_reference": "2023 NEC 250.194 (A)",
+    "correct_answer": "16 ft"
+  },
+  {
+    "question": "A load not less than _______ volt-amperes shall be included for each 2-wire laundry branch circuit installed as required?",
+    "choices": ["1500", "1000", "1200", "1800"],
+    "code_reference": "2023 NEC 220.52 (B)",
+    "correct_answer": "1500"
+  },
+  {
+    "question": "An enclosure supporting a luminaire may only be supported by rigid metal conduit when two or more threaded conduit runs are provided and each conduit shall be secured within ______ inches of the enclosure.",
+    "choices": ["20", "18", "30", "50"],
+    "code_reference": "2023 NEC 314.23 (F)",
+    "correct_answer": "18"
+  },
+  {
+    "question": "The connection of a grounding electrode conductor or bonding jumper to a grounding electrode shall be ______?",
+    "choices": ["Accessible", "Readily Accessible", "Permanently Accessible", "Inaccessible"],
+    "code_reference": "2023 NEC 250.68 (A)",
+    "correct_answer": "Accessible"
+  },
+  {
+    "question": "Which of the following is an approved method of grounding conductor connections to electrodes?",
+    "choices": ["Welding", "Exothermic welding", "Composite bonding", "Splicing"],
+    "code_reference": "2023 NEC 250.70 (A)",
+    "correct_answer": "Exothermic welding"
+  },
+  {
+    "question": "For unattended self-service motor fueling facilities, emergency controls shall be installed at a location acceptable by the authority having jurisdiction, the control shall be more than ________ feet from the dispensers and emergency controls shall shut off all power to all dispensing equipment.",
+    "choices": ["10", "20", "8", "6"],
+    "code_reference": "2023 NEC 514.11 (A)",
+    "correct_answer": "20"
+  },
+  {
+    "question": "Thermal insulation shall not be installed above a recessed luminaire or within _______ inches of the recessed luminaire's enclosure, wiring compartment, or ballast unless it is identified for contact with insulation, for non-type IC?",
+    "choices": ["2", "5", "3", "3"],
+    "code_reference": "2023 NEC 410.116 (B)",
+    "correct_answer": "3"
+  },
+  {
+    "question": "Neutral conductors for grounding a system over 1000 volts shall have a minimum insulation level of how much?",
+    "choices": ["500 volts", "300 volts", "250 volts", "600 volts"],
+    "code_reference": "2023 NEC 250.184 (A)(1)",
+    "correct_answer": "600 volts"
+  },
+  {
+    "question": "Conduit seals in a Class I, Division I location, when required, shall be installed within ______ inches from an enclosure?",
+    "choices": ["18 in", "20 in", "15 in", "10 in"],
+    "code_reference": "2023 NEC 501.15 (A)(1)",
+    "correct_answer": "18 in"
+  },
+  {
+    "question": "All threaded conduit shall be made ______ to prevent sparking when fault current flows through the conduit system and to ensure the explosion proof or flameproof integrity of the conduit system where applicable?",
+    "choices": ["Over-current proof", "Safely", "Wrench-tight", "Directly"],
+    "code_reference": "2023 NEC 500.8 (E)",
+    "correct_answer": "Wrench-tight"
+  },
+  {
+    "question": "Hermetically sealed protective techniques shall be acceptable for electrical and electronic equipment in hazardous (classified) locations. What is one of those classes?",
+    "choices": ["Class 2 - Division 3", "Class 1 - Division 3", "Class 2 - Division 4", "Class 1 - Division 2"],
+    "code_reference": "2023 NEC 500.7 (J)",
+    "correct_answer": "Class 1 - Division 2"
+  },
+  {
+    "question": "Class II equipment for hazardous locations shall be marked to show the class, group and ______ temperature?",
+    "choices": ["Operating", "Running", "Moving", "Working"],
+    "code_reference": "2023 NEC 500.8 (C)(4)",
+    "correct_answer": "Operating"
+  },
+  {
+    "question": "For straight pulls of conductors larger than 4 AWG, junction boxes shall be not be less than ______ times the trade size of the largest connecting raceway?",
+    "choices": ["8", "5", "6", "4"],
+    "code_reference": "2023 NEC 314.28 (A)(1)",
+    "correct_answer": "8"
+  },
+  {
+    "question": "Type PVC conduit shall be an allowable wiring method in Class III locations?",
+    "choices": ["True", "False"],
+    "code_reference": "2023 NEC 503.10 (A)(1)(1)",
+    "correct_answer": "True"
+  },
+  {
+    "question": "In hotel guest rooms, branch circuits that supply luminaires must not have a voltage exceeding ______ between the conductors connected to the terminals?",
+    "choices": ["120 Volts", "240 Volts", "270 Volts", "380 Volts"],
+    "code_reference": "2023 NEC 210.6 (A)",
+    "correct_answer": "120 Volts"
+  },
+  {
+    "question": "In no case shall the point of attachment for overhead service-drop conductors be less than _______ feet above finish grade?",
+    "choices": ["15", "10", "8", "12"],
+    "code_reference": "2023 NEC 230.26",
+    "correct_answer": "10"
+  },
+  {
+    "question": "For a receptacle, what is the minimum width of a wall to require an outlet in a dwelling unit?",
+    "choices": ["2 ft", "3 ft", "4 ft", "6 ft"],
+    "code_reference": "2023 NEC 210.52 (A)(2)",
+    "correct_answer": "2 ft"
+  },
+  {
+    "question": "A 2,000 square foot lodge room shall have a minimum calculated lighting load no less than ______ VA for purposes of determining feeder and service loads?",
+    "choices": ["2900 VA", "3400 VA", "2000 VA", "3500 VA"],
+    "code_reference": "2023 NEC 220.42 (A) Footnote 2",
+    "correct_answer": "3400 VA"
+  },
+  {
+    "question": "Electrically heated utilization equipment in Class I Division 2 locations shall not exceed _________ percent of the ignition temperature in degrees of the gas or vapor?",
+    "choices": ["25", "35", "60", "80"],
+    "code_reference": "2023 NEC 501.135 (B)(1)",
+    "correct_answer": "80"
+  },
+  {
+    "question": "What is not permitted for use as a grounding electrode?",
+    "choices": ["Steel", "Copper", "Titanium", "Aluminum"],
+    "code_reference": "2023 NEC 250.52 (B)(2)",
+    "correct_answer": "Aluminum"
+  },
+  {
+    "question": "Flammable gas, flammable liquid-produced vapor, or combustible liquid-produced vapor mixed with air that burns is in ______________ e.g. hydrogen?",
+    "choices": ["Class 2 - Group B", "Class 1 - Group B", "Class 1 - Group A", "Class 2 - Group A"],
+    "code_reference": "2023 NEC 500.6 (A)(2)",
+    "correct_answer": "Class 1 - Group B"
+  },
+  {
+    "question": "Circuits leading to or through gasoline dispensing equipment shall have _______ at the boundary of the Class I area?",
+    "choices": ["Seals", "Rigid metal conduit stubs", "Explosion proof fittings", "A means to disconnect all conductors, including the neutral"],
+    "code_reference": "2023 NEC 514.9 (B)",
+    "correct_answer": "Seals"
+  },
+  {
+    "question": "When plate electrodes are used for grounding, each electrode shall expose a minimum of _____ to the surface of exterior soil?",
+    "choices": ["One square foot", "Three square feet", "One half of a square foot", "Two square feet"],
+    "code_reference": "2023 NEC 250.52 (A)(7)",
+    "correct_answer": "Two square feet"
+  },
+  {
+    "question": "Where used outside, aluminum or copper-clad aluminum grounding conductors shall not be terminated within _______ inches of the earth?",
+    "choices": ["15", "12", "18", "20"],
+    "code_reference": "2023 NEC 250.64 (A)",
+    "correct_answer": "18"
+  },
+  {
+    "question": "Cellular concrete floor raceways shall have no conductor larger than _____ AWG installed in the raceway?",
+    "choices": ["1/0", "2/0", "8", "16"],
+    "code_reference": "2023 NEC 372.20",
+    "correct_answer": "1/0"
+  },
+  {
+    "question": "A cablebus shall be securely supported at intervals not exceeding ______ feet?",
+    "choices": ["12 ft", "10 ft", "6 ft", "4 ft"],
+    "code_reference": "2023 NEC 370.30 (A)",
+    "correct_answer": "12 ft"
+  },
+  {
+    "question": "Three-way and four-way switches shall be wired so that all switching is done only in the _______ circuit conductor?",
+    "choices": ["Grounded", "Bonding", "Open", "Ungrounded"],
+    "code_reference": "2023 NEC 404.2 (A)",
+    "correct_answer": "Ungrounded"
+  },
+  {
+    "question": "Fixture wire shall be permitted to be tapped into a 50-amp branch circuit conductor if the AWG of the fixture wire is what size?",
+    "choices": ["12 AWG or larger", "10 AWG or larger", "8 AWG or larger", "6 AWG or larger"],
+    "code_reference": "2023 NEC 240.5 (B)(2)(6)",
+    "correct_answer": "12 AWG or larger"
+  },
+  {
+    "question": "Life safety and critical branches in health care facilities shall be automatically restored to operation within ______ seconds after interruption of the normal source power?",
+    "choices": ["10", "12", "8", "6"],
+    "code_reference": "2023 NEC 517.43",
+    "correct_answer": "10"
+  },
+  {
+    "question": "In dwelling units, 125-volt single-phase 15- and 20-ampere receptacles installed within ______ feet of the outside edge of the sink shall be provided with GFCI protection?",
+    "choices": ["8 ft", "5 ft", "6 ft", "3 ft"],
+    "code_reference": "2023 NEC 210.8 (A)(8)",
+    "correct_answer": "6 ft"
+  },
+  {
+    "question": "Receptacles located within the patient care area of pediatric wards, rooms, or areas shall have a listed ______ resistant cover?",
+    "choices": ["Patient", "Water", "Tamper", "Fault"],
+    "code_reference": "2023 NEC 517.18 (C)",
+    "correct_answer": "Tamper"
+  },
+  {
+    "question": "The branch-circuit over-current device and conductors for fixed storage-type water heaters that have a capacity of 450 L (120 gal) or less shall have an ampere rating of not less than ______ percent of the ampere rating of the water heater?",
+    "choices": ["100", "85", "65", "125"],
+    "code_reference": "2023 NEC 422.13",
+    "correct_answer": "125"
+  },
+  {
+    "question": "Service entrance cables shall be supported by straps within what distance of every service head?",
+    "choices": ["10 in", "8 in", "15 in", "12 in"],
+    "code_reference": "2023 NEC 230.51 (A)",
+    "correct_answer": "12 in"
+  },
+  {
+    "question": "Boxes in walls shall be installed so that the front edge of the box is not more than how much from the edge of the finished surface?",
+    "choices": ["1/4 in", "1/8 in", "1/2 in", "1/6 in"],
+    "code_reference": "2023 NEC 314.20",
+    "correct_answer": "1/4 in"
+  },
+  {
+    "question": "Rigid metal conduit is allowed to be installed underground within 5 feet horizontally of a pools inside wall edge?",
+    "choices": ["True", "False"],
+    "code_reference": "2023 NEC 680.11 (A)",
+    "correct_answer": "True"
+  },
+  {
+    "question": "Type ENT cable _________ used where exposed to direct rays of the sun unless identified as sunlight resistance?",
+    "choices": ["May be", "Shall be", "May not be", "Shall not be"],
+    "code_reference": "2023 NEC 362.12",
+    "correct_answer": "Shall not be"
+  },
+  {
+    "question": "For multiconductor or multiplexed single-conductor cables having individually shielded conductors, the minimum bending radius is ______ times the diameter of the individually shielded conductors or ______ times the overall diameter, whichever is greater?",
+    "choices": ["15, 4", "12, 7", "10, 6", "12, 8"],
+    "code_reference": "2023 NEC 305.5",
+    "correct_answer": "12, 7"
+  },
+  {
+    "question": "For permanently connected appliances rated at not over ______ horsepower, the branch circuit overcurrent device shall be permitted to serve as the disconnecting means.",
+    "choices": ["1/6", "1/8", "1/2", "1/4"],
+    "code_reference": "2023 NEC 422.31 (A)",
+    "correct_answer": "1/8"
+  },
+  {
+    "question": "The length of a cord for electronically operated kitchen waste disposers shall not be less than ______ inches and not over ______ inches?",
+    "choices": ["18, 36", "16, 30", "14, 28", "18, 42"],
+    "code_reference": "2023 NEC 422.16 (B)(1)(1)",
+    "correct_answer": "18, 36"
+  },
+  {
+    "question": "Surface mounted fluorescent luminaires in closets shall have how much space between the wall or ceiling when installed above the door?",
+    "choices": ["8 in", "4 in", "6 in", "10 in"],
+    "code_reference": "2023 NEC 410.16 (D)(2)",
+    "correct_answer": "6 in"
+  },
+  {
+    "question": "Feeder taps not over 25 feet must comply with three elements, what is one of them?",
+    "choices": ["Oversizing of conductors dependent upon the fault current maximum", "Protection from physical damage by a raceway or approved means", "Protection of conductors from wet locations by approved means", "Jacketing approved by ASTM 8411"],
+    "code_reference": "2023 NEC 240.21 (B)(2)",
+    "correct_answer": "Protection from physical damage by a raceway or approved means"
+  },
+  {
+    "question": "Cable type RMC shall be securely fastened within ______ feet of each outlet box, junction box, device box, and cabinet?",
+    "choices": ["2", "5", "3", "8"],
+    "code_reference": "2023 NEC 344.30 (A)",
+    "correct_answer": "3"
+  },
+  {
+    "question": "For equipment rated 1200 amperes or more and over 6 feet wide that contain overcurrent devices, there shall be one entrance not less than ______ inches wide and ______ feet high at each end of the working space?",
+    "choices": ["24 - 6 1/2", "20 - 8 1/2", "24 - 6 1/4", "20 - 8 1/4"],
+    "code_reference": "2023 NEC 110.26 (C)(2)",
+    "correct_answer": "24 - 6 1/2"
+  },
+  {
+    "question": "No parts of cord connection luminaries, hanging luminaries, lighting track, pendants, or ceiling-suspended fans shall be located within a zone measured ______ feet horizontally and ______ feet vertically from the top of the bathtub rim or shower stall threshold?",
+    "choices": ["2, 4", "6, 4", "3, 8", "1, 8"],
+    "code_reference": "2023 NEC 410.10 (D)",
+    "correct_answer": "3, 8"
+  },
+  {
+    "question": "A disconnecting means shall be provided for all ungrounded conductors derived from a stationary standby battery with a voltage over ______ volts dc?",
+    "choices": ["60", "50", "40", "20"],
+    "code_reference": "2023 NEC 480.7 (A)",
+    "correct_answer": "60"
+  },
+  {
+    "question": "A device designed to open and close a circuit by non-automatic means and to open the circuit automatically on a predetermined overcurrent without damage to itself when properly applied within its rating is defined as a _________?",
+    "choices": ["Current interrupter", "Flow control", "Circuit breaker", "Current breaker"],
+    "code_reference": "2023 NEC 100 Definitions",
+    "correct_answer": "Circuit breaker"
+  },
+  {
+    "question": "Sheet steel boxes for electrical installations shall be made of steel not less than what thickness?",
+    "choices": [".0625 in", ".0825 in", ".0525 in", ".0425 in"],
+    "code_reference": "2023 NEC 314.100 (A)",
+    "correct_answer": ".0625 in"
+  },
+  {
+    "question": "Receptacles installed on 15- and 20-amp branch circuits shall be of the ________ type?",
+    "choices": ["Bonding", "Fault", "Arc", "Grounding"],
+    "code_reference": "2023 NEC 406.4 (A)",
+    "correct_answer": "Grounding"
+  },
+  {
+    "question": "Sheet metal auxiliary gutters shall be supported throughout their entire length at maximum intervals of ________ feet?",
+    "choices": ["6", "5", "8", "10"],
+    "code_reference": "2023 NEC 366.30 (A)",
+    "correct_answer": "5"
+  },
+  {
+    "question": "Generally, EMT smaller than ______ inch shall not be used?",
+    "choices": ["1/8", "1/6", "1/2", "1/4"],
+    "code_reference": "2023 NEC 358.20 (A)",
+    "correct_answer": "1/2"
+  },
+  {
+    "question": "Type MV cable shall be permitted for use on power systems rated up to ______ volts in a raceway, for wet and dry locations?",
+    "choices": ["25,000", "40,000", "30,000", "35,000"],
+    "code_reference": "2023 NEC 315.32",
+    "correct_answer": "35,000"
+  },
+  {
+    "question": "What is an acceptable service entrance conductor to be run in a cable tray?",
+    "choices": ["Type M", "Type ML", "Type MI", "Type AR"],
+    "code_reference": "2023 NEC 230.44 (3)",
+    "correct_answer": "Type MI"
+  },
+  {
+    "question": "Fixture wire shall not be smaller than what AWG?",
+    "choices": ["12 AWG", "18 AWG", "8 AWG", "16 AWG"],
+    "code_reference": "2023 NEC 402.6",
+    "correct_answer": "18 AWG"
+  },
+  {
+    "question": "Generally, an auxiliary gutter shall not extend a greater than ______ beyond the equipment it supplements?",
+    "choices": ["20 ft", "15 ft", "30 ft", "25 ft"],
+    "code_reference": "2023 NEC 366.10 (C)",
+    "correct_answer": "30 ft"
+  },
+  {
+    "question": "Busways shall be permitted to be in the ______ where they are visible?",
+    "choices": ["Closed", "Enclosed space", "Open", "Adjoining space"],
+    "code_reference": "2023 NEC 368.10 (A)",
+    "correct_answer": "Open"
+  },
+  {
+    "question": "In a health care facility, life safety branches of an emergency system shall supply power for all of the following except ______?",
+    "choices": ["Illumination of Means of Egress", "Exit Signs", "Generator Sets", "Bathroom Receptacles"],
+    "code_reference": "2023 NEC 517.33",
+    "correct_answer": "Bathroom Receptacles"
+  },
+  {
+    "question": "Where a cable or raceway type wiring method is installed through bored holes, the holes shall be bored so that the edge of the hole is not less than ______ inches from the nearest edge of the wood member?",
+    "choices": ["1 1/4", "1 1/2", "3/4", "2"],
+    "code_reference": "2023 NEC 300.4 (A)(1)",
+    "correct_answer": "1 1/4"
+  },
+  {
+    "question": "Conductors fill in a metallic box shall have how much free volume within for 1 conductor of 18 AWG and 3 of 6 AWG?",
+    "choices": ["16.5 in^3", "18 in^3", "18.5 in^3", "20 in^3"],
+    "code_reference": "2023 NEC 314.16 (B)(1)",
+    "correct_answer": "16.5 in^3"
+  },
+  {
+    "question": "A flexible cord for an electrically operated and plug in-sink waste disposer shall have an equipment grounding conductor and shall be terminated with a grounding type attachment plug?",
+    "choices": ["True", "False"],
+    "code_reference": "2023 NEC 422.16 (B)(1)(4)",
+    "correct_answer": "True"
+  },
+  {
+    "question": "Type AC cable shall be secured by only staples, cable tie, hangers or fittings at intervals not exceeding _________ feet?",
+    "choices": ["4 1/2", "5 1/2", "4 1/4", "6 1/2"],
+    "code_reference": "2023 NEC 320.30 (B)",
+    "correct_answer": "4 1/2"
+  },
+  {
+    "question": "The space equal to the width and depth of equipment and extending from the floor to a height of ________ feet or to the structural ceiling, whichever is greater, shall be dedicated to the electrical installation for installations of 1000 volts or less?",
+    "choices": ["4 1/4", "2", "5 3/4", "6 1/2"],
+    "code_reference": "2023 NEC 110.26 (A)(3)",
+    "correct_answer": "6 1/2"
+  },
+  {
+    "question": "Where electrical diagnostic equipment is to be used in Class I garage locations it shall have ______ protection for personnel?",
+    "choices": ["AFCI", "Grounding", "Bonding", "GFCI"],
+    "code_reference": "2023 NEC 511.12",
+    "correct_answer": "GFCI"
+  },
+  {
+    "question": "In Class I, Division 1 locations, when entering an enclosure, the entry shall be metric designator 53, trade size ______ or larger and the enclosure contains terminals splices, or taps, a seal shall be placed in each conduit run entering the classified location?",
+    "choices": ["1", "2", "3", "4"],
+    "code_reference": "2023 NEC 501.15 (A)(1)(2)",
+    "correct_answer": "2"
+  },
+  {
+    "question": "The interior of spray booths and areas in the vicinity of spraying and painting are in a _______________ location?",
+    "choices": ["Class I - Division 1", "Class I - Division 2", "Class II - Division V", "Class I - Division V"],
+    "code_reference": "2023 NEC 500.5 (B)(1)(2)",
+    "correct_answer": "Class I - Division 1"
+  },
+  {
+    "question": "To facilitate replacements in Class I, Division 2 locations, process control instruments shall be permitted to be connected through flexible cord and attachment plug and receptacle, the power-supply cord shall not exceed ______ feet?",
+    "choices": ["4", "5", "2", "3"],
+    "code_reference": "2023 NEC 501.105 (B)(6)(2)",
+    "correct_answer": "3"
+  },
+  {
+    "question": "Fixed space heating equipment without supplementary overcurrent protection that is over 1/8 horsepower shall have a disconnecting means located where?",
+    "choices": ["10 ft", "5 ft", "20 ft", "Within sight"],
+    "code_reference": "2023 NEC 424.19 (B)(2)",
+    "correct_answer": "Within sight"
+  },
+  {
+    "question": "In walls or ceilings with a surface of concrete, tile, gypsum, plaster, or other noncombustible material, boxes shall be installed so that the front edge of the box will not be set back of the finished surface more than an ____ inch?",
+    "choices": ["1/2", "1/8", "1/4", "1/6"],
+    "code_reference": "2023 NEC 314.20",
+    "correct_answer": "1/4"
+  },
+  {
+    "question": "In areas of Class I locations, lamps and lamp-holders for fixed lighting that is located over lanes through which vehicles are commonly driven shall not be less than ________ feet above the floor level?",
+    "choices": ["4", "5", "12", "8"],
+    "code_reference": "2023 NEC 511.7 (B)(1)(B)",
+    "correct_answer": "12"
+  },
+  {
+    "question": "Nonmetallic-sheathed cable shall be secured by staples, cable ties, straps, hangers, or similar fitting at intervals not exceeding ______ feet and within _______ inches of every cabinet, box, or fitting?",
+    "choices": ["6 1/2 - 10", "4 1/2 - 12", "5 1/4 - 12", "4 1/6 - 8"],
+    "code_reference": "2023 NEC 334.30",
+    "correct_answer": "4 1/2 - 12"
+  },
+  {
+    "question": "A XHHW type conductor shall have how much insulation when 6 AWG?",
+    "choices": ["40 mils", "36 mils", "45 mils", "48 mils"],
+    "code_reference": "2023 NEC 310.4 (1)",
+    "correct_answer": "45 mils"
+  },
+  {
+    "question": "Required 125-volt, 15 and 20 ampere receptacles in dwelling units shall be installed so that at no point measured horizontally along the floor line in any wall space is more than ______ feet from a receptacle outlet?",
+    "choices": ["12", "5", "10", "6"],
+    "code_reference": "2023 NEC 210.52 (A)(1)",
+    "correct_answer": "6"
+  },
+  {
+    "question": "The length of the cord for built-in trash compactors shall not be less than _____ feet and not more than ______ feet?",
+    "choices": ["4, 8", "5, 6", "7, 10", "3, 4"],
+    "code_reference": "2023 NEC 422.16 (B)(2)",
+    "correct_answer": "3, 4"
+  }
+]
