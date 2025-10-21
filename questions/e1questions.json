@@ -1,0 +1,512 @@
+[
+  {
+    "question": "What shall be the minimum volume in cubic inches for an 8 AWG conductor in a box?",
+    "choices": ["2.50 in", "4.25 in", "3.00 in", "1.75 in"],
+    "code_reference": "2024 IRC 3905.12.2.1",
+    "correct_answer": "3.00 in"
+  },
+  {
+    "question": "At least one outlet in bathrooms is required to be within what dimension of each lavatory basin?",
+    "choices": ["34 in", "36 in", "32 in", "30 in"],
+    "code_reference": "2024 IRC 3901.6",
+    "correct_answer": "36 in"
+  },
+  {
+    "question": "A receptacle for a cord-and-plug-connected range hood shall be supplied by an individual branch circuit?",
+    "choices": ["True", "False"],
+    "code_reference": "2024 IRC 4101.3",
+    "correct_answer": "True"
+  },
+  {
+    "question": "Direct buried conductors and cables emerging from the ground shall be protected to a point at least how far above finished grade?",
+    "choices": ["8 ft", "6 ft", "7 ft", "4 ft"],
+    "code_reference": "2024 IRC 3803.3",
+    "correct_answer": "8 ft"
+  },
+  {
+    "question": "What shall be the minimum burial depth of direct burial cables or conductors in locations not specifically identified?",
+    "choices": ["24 in", "18 in", "16 in", "12 in"],
+    "code_reference": "2024 IRC 3803.1",
+    "correct_answer": "24 in"
+  },
+  {
+    "question": "Electric spa and hot tub water heaters shall be listed and shall have the heating elements subdivided into loads not exceeding ______ amperes?",
+    "choices": ["55", "60", "48", "24"],
+    "code_reference": "2024 IRC 4208.2",
+    "correct_answer": "48"
+  },
+  {
+    "question": "What shall be the minimum cover for rigid metal conduit installed under a driveway?",
+    "choices": ["36 in", "12 in", "24 in", "6 in"],
+    "code_reference": "2024 IRC 3803.1",
+    "correct_answer": "24 in"
+  },
+  {
+    "question": "Where a branch circuit or a feeder supplies a continuous load it shall have an allowable ampacity equal to or greater than the non-continuous load plus ______ percent of continuous load?",
+    "choices": ["125", "200", "150", "100"],
+    "code_reference": "2024 IRC 3701.2.1",
+    "correct_answer": "125"
+  },
+  {
+    "question": "Switches shall not be more than what dimension above a floor or working platform, when in its highest position?",
+    "choices": ["6 ft 7 in", "3 ft 7 in", "6 ft 10 in", "10 ft 9 in"],
+    "code_reference": "2024 IRC 4001.6",
+    "correct_answer": "6 ft 7 in"
+  },
+  {
+    "question": "Above-ground service-entrance cables subject to physical damage shall be protected by what schedule PVC conduit?",
+    "choices": ["40", "90", "60", "80"],
+    "code_reference": "2024 IRC 3605.5",
+    "correct_answer": "80"
+  },
+  {
+    "question": "The minimum headroom for working spaces for service equipment and panel boards shall be how many feet?",
+    "choices": ["6 1/4 ft", "6 ft", "7 1/2 ft", "6 1/2 ft"],
+    "code_reference": "2024 IRC 3405.2",
+    "correct_answer": "6 1/2 ft"
+  },
+  {
+    "question": "What shall be the minimum AWG size copper grounding electrode conductor when the largest ungrounded service entrance conductor for a panel is 1/0 copper?",
+    "choices": ["6 AWG", "4 AWG", "8 AWG", "1/0 AWG"],
+    "code_reference": "2024 IRC 3603.4",
+    "correct_answer": "6 AWG"
+  },
+  {
+    "question": "All circuit conductors between the service equipment, or the source of a separately derived system, or other power supply source and the final branch-circuit overcurrent device.",
+    "choices": ["Service conductors", "Service cables", "Feeder", "Circuit"],
+    "code_reference": "2024 IRC 35",
+    "correct_answer": "Feeder"
+  },
+  {
+    "question": "Flexible cords for kitchen range hoods shall have what minimum and maximum length?",
+    "choices": ["18 in to 48 in", "12 in to 42 in", "20 in to 40 in", "30 in to 36 in"],
+    "code_reference": "2024 IRC 4101.3",
+    "correct_answer": "18 in to 48 in"
+  },
+  {
+    "question": "Outdoor receptacles that are not readily accessible and are supplied from a dedicated branch circuit for electric snow-melting or deicing equipment shall be permitted to be installed without ground-fault circuit-interrupter protection for personnel?",
+    "choices": ["True", "False"],
+    "code_reference": "2024 IRC 4101.7",
+    "correct_answer": "True"
+  },
+  {
+    "question": "Unused cable and raceway openings in cabinets and panel boards shall be effectively ______ to afford protection equivalent to that of the wall cabinet?",
+    "choices": ["Open", "Closed", "Labeled", "Marked"],
+    "code_reference": "2024 IRC 3404.6",
+    "correct_answer": "Closed"
+  },
+  {
+    "question": "How many 15 or 20 amp receptacles supplied by a general purpose branch circuit shall be located a minimum of 6 feet from and not more than 20 feet from the inside walls of pools?",
+    "choices": ["4", "3", "2", "1"],
+    "code_reference": "2024 IRC 4203.1.3",
+    "correct_answer": "1"
+  },
+  {
+    "question": "A luminaire that weighs more than ______ or exceeds 16 inches in any dimension shall not be supported by the screws of a lamp holder?",
+    "choices": ["12 Lbs", "5 Lbs", "6 Lbs", "15 Lbs"],
+    "code_reference": "2024 IRC 4004.4",
+    "correct_answer": "6 Lbs"
+  },
+  {
+    "question": "Underground service laterals that are not encased in concrete and that are buried 18 inches or more below grade shall have their location identified by what?",
+    "choices": ["Warning Ribbon", "Tracer wire", "Metal tags", "Not required"],
+    "code_reference": "2024 IRC 3803.2",
+    "correct_answer": "Warning Ribbon"
+  },
+  {
+    "question": "Recessed incandescent fixtures shall have what kind of protection?",
+    "choices": ["Overcurrent", "Thermal", "Heat", "Cold"],
+    "code_reference": "2024 IRC 4003.6",
+    "correct_answer": "Thermal"
+  },
+  {
+    "question": "Where raceways are installed in wet locations above grade, the interior of such raceways shall be considered to be a ______ location.",
+    "choices": ["Hazardous", "Wet", "Damp", "Sealed"],
+    "code_reference": "2024 IRC 3802.8",
+    "correct_answer": "Wet"
+  },
+  {
+    "question": "Where installed in raceways, conductors of what size AWG and larger shall be stranded?",
+    "choices": ["6", "8", "2", "4"],
+    "code_reference": "2024 IRC 3406.4",
+    "correct_answer": "8"
+  },
+  {
+    "question": "Threaded bonding connections at a service shall be fastened how tight?",
+    "choices": ["Wrench tight", "40 lb ft of torque", "20 lb ft of torque", "15 lb ft of torque"],
+    "code_reference": "2024 IRC 3609.4.2",
+    "correct_answer": "Wrench tight"
+  },
+  {
+    "question": "Flexible cords for kitchen waste disposals shall be what dimension?",
+    "choices": ["12 in to 36 in", "12 in to 30 in", "16 in to 30 in", "18 in to 36 in"],
+    "code_reference": "2024 IRC 4101.3",
+    "correct_answer": "18 in to 36 in"
+  },
+  {
+    "question": "All 15 and 20 amp, single phase, 125-volt receptacles located within ______ feet of the inside walls of pools and outdoor spas and hot tubs shall be protected by a Class A ground-fault circuit-interrupter?",
+    "choices": ["10", "15", "20", "25"],
+    "code_reference": "2024 IRC 4203.1.4",
+    "correct_answer": "20"
+  },
+  {
+    "question": "Where used outside, aluminum or copper-clad aluminum grounding conductors shall not be terminated within ______ inches of the earth?",
+    "choices": ["12 in", "18 in", "6 in", "8 in"],
+    "code_reference": "2024 IRC 3610.2 (3)",
+    "correct_answer": "18 in"
+  },
+  {
+    "question": "Generally, ceiling suspended paddle fans shall be supported independently of outlet boxes when weighing over 50 lbs?",
+    "choices": ["True", "False"],
+    "code_reference": "2024 IRC 3905.6.2",
+    "correct_answer": "True"
+  },
+  {
+    "question": "A minimum of one ___ -ampere-rated branch circuit shall be provided for receptacles located in the laundry area and shall serve only receptacle outlets in the laundry area.",
+    "choices": ["20 amp", "40 amp", "15 amp", "30 amp"],
+    "code_reference": "2024 IRC 3703.3",
+    "correct_answer": "20 amp"
+  },
+  {
+    "question": "Cords that supply swimming pool equipment shall have a copper equipment grounding conductor not smaller than what AWG?",
+    "choices": ["12", "13", "14", "18"],
+    "code_reference": "2024 IRC 4202.3 (1)",
+    "correct_answer": "12"
+  },
+  {
+    "question": "For one-family dwellings, the rating of the ungrounded conductors shall be not less than how many amperes three wire?",
+    "choices": ["150", "200", "100", "1000"],
+    "code_reference": "2024 IRC 3602.1",
+    "correct_answer": "100"
+  },
+  {
+    "question": "All parts of a pool required to be bonded shall be bonded together with a copper conductor not smaller than what AWG?",
+    "choices": ["6", "8", "10", "12"],
+    "code_reference": "2024 IRC 4204.2",
+    "correct_answer": "8"
+  },
+  {
+    "question": "The underground service conductors between the electric utility supply system and the service point.",
+    "choices": ["Service feeder", "Feeder", "Service lateral", "Service drop"],
+    "code_reference": "2024 IRC 35",
+    "correct_answer": "Service lateral"
+  },
+  {
+    "question": "A branch circuit using 14 AWG conductors and a 15 Ampere overcurrent-protection device shall have a maximum load rating of how many amps?",
+    "choices": ["15 amps", "18 amps", "16.5 amps", "15.5 amps"],
+    "code_reference": "2024 IRC 3702.15 (1)",
+    "correct_answer": "15 amps"
+  },
+  {
+    "question": "Equipment grounding conductors of sizes 6 AWG and smaller shall be identified by a continuous green color or a continuous green color with one or more ______ stripes on the insulation or covering, except where bare?",
+    "choices": ["Orange", "Blue", "Black", "Yellow"],
+    "code_reference": "2024 IRC 3407.2.1",
+    "correct_answer": "Yellow"
+  },
+  {
+    "question": "The common point on a wye-connection in a polyphase system or midpoint on a single-phase, 3-wire system, or midpoint of a single-phase portion of a 3-phase delta system, or a midpoint of a 3-wire, direct-current system.",
+    "choices": ["Neutral conductor", "Ground fault", "Neutral point", "Feeder"],
+    "code_reference": "2024 IRC 35",
+    "correct_answer": "Neutral point"
+  },
+  {
+    "question": "Conductors shall have a vertical clearance of not less than how many feet above roof surfaces?",
+    "choices": ["8 ft", "5 ft", "6 ft", "4 ft"],
+    "code_reference": "2024 IRC 3604.2.1",
+    "correct_answer": "8 ft"
+  },
+  {
+    "question": "Electrical services within the scope of the IRC are limited to ____-volt, 0-to ____- amp, single-phase systems.",
+    "choices": ["120/240-volt, 200-amp", "120/240-volt, 150-amp", "120/208-volt, 400-amp", "120/240-volt, 400-amp"],
+    "code_reference": "2024 IRC 3401.2",
+    "correct_answer": "120/240-volt, 400-amp"
+  },
+  {
+    "question": "Working space in front of panel boards shall not be less than what dimensions?",
+    "choices": ["36 in by 30 in", "32 in by 28 in", "30 in by 30 in", "36 in by 36 in"],
+    "code_reference": "2024 IRC 3405.2",
+    "correct_answer": "36 in by 30 in"
+  },
+  {
+    "question": "In clothes closets, surface mounted incandescent luminaires shall have how many inches clearance from the nearest point of storage space when mounted above a door?",
+    "choices": ["10 in", "12 in", "15 in", "20 in"],
+    "code_reference": "2024 IRC 4003.12 (1)",
+    "correct_answer": "12 in"
+  },
+  {
+    "question": "The electrical chapters contained in the IRC (34 - 43) do not contain services rated over _____ amps?",
+    "choices": ["200", "300", "400", "600"],
+    "code_reference": "2024 IRC 3401.3",
+    "correct_answer": "400"
+  },
+  {
+    "question": "Conductors in NM cable assemblies shall be rated at ______ Celsius.",
+    "choices": ["90 degrees Celsius", "50 degrees Celsius", "110 degrees Celsius", "100 degrees Celsius"],
+    "code_reference": "2024 IRC 3705.4.4",
+    "correct_answer": "90 degrees Celsius"
+  },
+  {
+    "question": "In no case shall the point of attachment for service-drop conductors be less than how much above finish grade?",
+    "choices": ["10 ft", "12 ft", "15 ft", "8 ft"],
+    "code_reference": "2024 IRC 3604.3",
+    "correct_answer": "10 ft"
+  },
+  {
+    "question": "Over residential property and driveways, service-drop conductors shall have how many feet of clearance above final grade?",
+    "choices": ["10 ft", "16 ft", "12 ft", "20 ft"],
+    "code_reference": "2024 IRC 3604.2.2",
+    "correct_answer": "12 ft"
+  },
+  {
+    "question": "Underground wiring shall not be installed under or within the area extending 5 feet horizontally from the inside walls of pools?",
+    "choices": ["True", "False"],
+    "code_reference": "2024 IRC 4203.8",
+    "correct_answer": "False"
+  },
+  {
+    "question": "Minimum of how many 20 amperes rated branch circuits shall be provided for receptacles located in the laundry area and shall serve only receptacle outlets in the laundry area?",
+    "choices": ["2", "1", "3", "5"],
+    "code_reference": "2024 IRC 3703.3",
+    "correct_answer": "1"
+  },
+  {
+    "question": "A load where the maximum current is expected to continue for 3 hours or more.",
+    "choices": ["Connected load", "Continuous load", "Intermittent load", "Feeder load"],
+    "code_reference": "2024 IRC 35",
+    "correct_answer": "Continuous load"
+  },
+  {
+    "question": "There shall be a wall switch at each floor to control stairway lighting where the stairway has ______ or more risers?",
+    "choices": ["12", "20", "6", "9"],
+    "code_reference": "2024 IRC 3903.3.1",
+    "correct_answer": "6"
+  },
+  {
+    "question": "Service drop conductors less than 750 volts to ground shall have a clearance to the base of a diving platform no less than how many feet?",
+    "choices": ["50", "25.5", "22.5", "20"],
+    "code_reference": "2024 IRC 4203.7",
+    "correct_answer": "22.5"
+  },
+  {
+    "question": "A luminaire facing upward on the bottom of a pool shall have the ______ adequately guarded to prevent contact by any person or shall be listed for use without a guard?",
+    "choices": ["Lens", "Cover", "Enclosure", "Cage"],
+    "code_reference": "2024 IRC 4206.4.2",
+    "correct_answer": "Lens"
+  },
+  {
+    "question": "Electrical panel boards and overcurrent devices shall not be located in what kind of location?",
+    "choices": ["Garages", "Clothes closets", "Outdoors", "Living rooms"],
+    "code_reference": "2024 IRC 3405.5",
+    "correct_answer": "Clothes closets"
+  },
+  {
+    "question": "Receptacles shall be installed so that no point along the floor line in any wall space is more than how many feet, measured horizontally, from an outlet in that space?",
+    "choices": ["5 ft", "6 ft", "3 ft", "2 ft"],
+    "code_reference": "2024 IRC 3901.2.1",
+    "correct_answer": "6 ft"
+  },
+  {
+    "question": "Bonding shall be provided where necessary to ensure electrical ______ and the capacity to conduct safely any fault current likely to be imposed?",
+    "choices": ["Fault path", "Grounding", "Discontinuity", "Continuity"],
+    "code_reference": "2024 IRC 3609.1",
+    "correct_answer": "Continuity"
+  },
+  {
+    "question": "The markings for identification of electrical disconnection means and the associated hazards shall have the durability to withstand the ______ involved.",
+    "choices": ["Weathering potential", "Installation", "Environment", "Wear potential"],
+    "code_reference": "2024 IRC 3404.12 (1)",
+    "correct_answer": "Environment"
+  },
+  {
+    "question": "Flexible cords may be installed as a substitute for fixed wiring in a structure when installed in a dropped ceiling?",
+    "choices": ["True", "False"],
+    "code_reference": "2024 IRC 3909.1",
+    "correct_answer": "False"
+  },
+  {
+    "question": "GFCI protection is required in which area?",
+    "choices": ["Bathroom", "Bedroom", "Attic", "Living room"],
+    "code_reference": "2024 IRC 3902.1",
+    "correct_answer": "Bathroom"
+  },
+  {
+    "question": "In calculating box fill, each 12 AWG conductor shall require how many cubic inches of free space within a box?",
+    "choices": ["2 1/2 in", "2 1/4 in", "3 in", "1 3/4 in"],
+    "code_reference": "2024 IRC 3905.12.2.1",
+    "correct_answer": "2 1/4 in"
+  },
+  {
+    "question": "Tamper proof receptacles are not required when a receptacle is located more than ______ feet above the floor?",
+    "choices": ["3 ft", "5 ft", "5.5 ft", "6.5 ft"],
+    "code_reference": "2024 IRC 4002.14 Exception 1",
+    "correct_answer": "5.5 ft"
+  },
+  {
+    "question": "Receptacles that provide power for water-pump motors or other loads directly related to the circulation and sanitation system shall be permitted to be located at least ______ from the inside walls of pools?",
+    "choices": ["6", "10", "15", "20"],
+    "code_reference": "2024 IRC 4203.1.1",
+    "correct_answer": "6"
+  },
+  {
+    "question": "Rod and pipe electrodes serving as a grounding electrode shall not be less than how many feet in length?",
+    "choices": ["6 ft", "8 ft", "5 ft", "9 ft"],
+    "code_reference": "2024 IRC 3608.1.4",
+    "correct_answer": "8 ft"
+  },
+  {
+    "question": "A minimum of how many 20-ampere-rated branch circuits shall be provided to serve all wall and floor receptacle outlets located in kitchen, pantry, breakfast area, and dining areas?",
+    "choices": ["2", "3", "1", "5"],
+    "code_reference": "2024 IRC 3703.2",
+    "correct_answer": "2"
+  },
+  {
+    "question": "Constructed or protected so that exposure to a beating rain will not result in the entrance of water under specified test conditions.",
+    "choices": ["Rain tight", "Rain proof", "Dead front", "Waterproof"],
+    "code_reference": "2024 IRC 35",
+    "correct_answer": "Rain tight"
+  },
+  {
+    "question": "Underground feeder cable specified as an allowable wiring method shall be designated as?",
+    "choices": ["EMT", "RMC", "SE", "UF"],
+    "code_reference": "2024 IRC 3801.2",
+    "correct_answer": "UF"
+  },
+  {
+    "question": "Interior metal water piping located more than how many feet from the point of entrance to the building shall not be used as part of the grounding electrode system?",
+    "choices": ["3 ft", "4 ft", "5 ft", "6 ft"],
+    "code_reference": "2024 IRC 3611.4",
+    "correct_answer": "5 ft"
+  },
+  {
+    "question": "All mechanical elements used to terminate a grounding electrode conductor or bonding jumper to the grounding electrodes shall be what when not buried or concrete encased?",
+    "choices": ["Permanent", "Visible", "Lead-free", "Accessible"],
+    "code_reference": "2024 IRC 3611.2",
+    "correct_answer": "Accessible"
+  },
+  {
+    "question": "An equipment grounding conductor shall not be used as a grounding electrode conductor?",
+    "choices": ["True", "False"],
+    "code_reference": "2024 IRC 3610.4",
+    "correct_answer": "True"
+  },
+  {
+    "question": "A ______ minimum length of free conductor shall be provided at each outlet, junction, or switch plate for splicing or termination?",
+    "choices": ["5 in", "3 in", "6 in", "4 in"],
+    "code_reference": "2024 IRC 3406.11.3",
+    "correct_answer": "6 in"
+  },
+  {
+    "question": "Insulated conductors and cables exposed to direct rays of the sun shall be listed and labeled as what?",
+    "choices": ["UV resistant", "Thermally coated", "Heat resistant", "Sunlight resistant"],
+    "code_reference": "2024 IRC 3802.9",
+    "correct_answer": "Sunlight resistant"
+  },
+  {
+    "question": "Branch circuit conductors for fixed storage type water heaters having a capacity of 120 gallon or less shall be sized no less than ______ percent of the water heater rating?",
+    "choices": ["100", "200", "150", "125"],
+    "code_reference": "2024 IRC 3702.11 (1)",
+    "correct_answer": "125"
+  },
+  {
+    "question": "A minimum of how many 20-ampere branch circuits shall be provided to supply bathroom receptacle outlets?",
+    "choices": ["2", "3", "1", "4"],
+    "code_reference": "2024 IRC 3703.4",
+    "correct_answer": "1"
+  },
+  {
+    "question": "Except for Type IC luminaires, thermal insulation shall not be installed above a recessed luminaire or within how many inches of the recessed luminaire’s enclosure?",
+    "choices": ["4 in", "6 in", "3 in", "2 in"],
+    "code_reference": "2024 IRC 4004.9",
+    "correct_answer": "3 in"
+  },
+  {
+    "question": "Nonmetallic boxes shall be used only with entirely nonmetallic sheaths, flexible cords and nonmetallic raceways?",
+    "choices": ["True", "False"],
+    "code_reference": "2024 IRC 3905.3",
+    "correct_answer": "True"
+  },
+  {
+    "question": "Service cables shall be supported by straps or other approved means within ______ of every service head, gooseneck or connection to a raceway or enclosure?",
+    "choices": ["10 in", "12 in", "24 in", "36 in"],
+    "code_reference": "2024 IRC 3605.7",
+    "correct_answer": "12 in"
+  },
+  {
+    "question": "What shall be the minimum burial depth of rigid metal conduit under a parking lot?",
+    "choices": ["36 in", "24 in", "18 in", "12 in"],
+    "code_reference": "2024 IRC 3803.1",
+    "correct_answer": "24 in"
+  },
+  {
+    "question": "Receptacles installed on 15 and 20 ampere rated branch circuits shall be of what type?",
+    "choices": ["Arc-Fault", "Open", "Closed", "Grounding"],
+    "code_reference": "2024 IRC 4002.2",
+    "correct_answer": "Grounding"
+  },
+  {
+    "question": "For 15- and 20-amp branch circuits, the rating of any-one cord and plug connected piece of utilization equipment, not fastened in place, shall not exceed what percentage of the branch circuit ampere rating?",
+    "choices": ["65%", "70%", "50%", "80%"],
+    "code_reference": "2024 IRC 3702.4",
+    "correct_answer": "80%"
+  },
+  {
+    "question": "Connected to establish electrical continuity and conductivity is defined as what?",
+    "choices": ["Grounding", "Bonding", "Jumping", "Interconnection"],
+    "code_reference": "2024 IRC 35",
+    "correct_answer": "Bonding"
+  },
+  {
+    "question": "Where a nonmetallic conduit is installed between a forming shell and a junction box, transformer enclosure, or other enclosure, a ______ AWG insulated copper bonding jumper shall be installed in this conduit except where a listed low-voltage lighting system not requiring grounding is used?",
+    "choices": ["12", "6", "4", "8"],
+    "code_reference": "2024 IRC 4205.5",
+    "correct_answer": "8"
+  },
+  {
+    "question": "Kitchen countertop receptacles shall be installed so that no point along the wall line is more than how many inches from a receptacle?",
+    "choices": ["12 in", "30 in", "24 in", "13 in"],
+    "code_reference": "2024 IRC 3901.4.1",
+    "correct_answer": "24 in"
+  },
+  {
+    "question": "The earth shall not be considered as an effective ground-fault current path?",
+    "choices": ["True", "False"],
+    "code_reference": "2024 IRC 3908.5",
+    "correct_answer": "True"
+  },
+  {
+    "question": "A branch circuit consisting of two or more ungrounded conductors having voltage difference between them, and a grounded conductor having equal voltage difference between it and each ungrounded conductor of the circuit, and that is connected to the neutral or grounded conductor of the system.",
+    "choices": ["Branch circuit, multiwire", "Branch circuit, individual", "Branch circuit, appliance", "Branch circuit, general purpose"],
+    "code_reference": "2024 IRC 35",
+    "correct_answer": "Branch circuit, multiwire"
+  },
+  {
+    "question": "The only allowed disconnecting means for an air conditioning condensing unit shall be?",
+    "choices": ["Switch within sight of the appliance", "Branch circuit overcurrent device", "Separable connector and receptacle", "Disconnect within sight of the unit"],
+    "code_reference": "2024 IRC 4101.5",
+    "correct_answer": "Disconnect within sight of the unit"
+  },
+  {
+    "question": "Copper conductors of 14 AWG in a 10-amp rated circuit shall have a maximum overcurrent protection device rating of what amperage?",
+    "choices": ["14 amps", "12 amps", "20 amps", "10 amps"],
+    "code_reference": "2024 IRC 3702.15 (1)",
+    "correct_answer": "10 amps"
+  },
+  {
+    "question": "Constructed or protected so that exposure to the weather will not interfere with successful operation.",
+    "choices": ["Watertight", "Rain tight", "Rain proof", "Weatherproof"],
+    "code_reference": "2024 IRC 35",
+    "correct_answer": "Weatherproof"
+  },
+  {
+    "question": "Where subject to physical damage, direct buried conductors shall be protected by schedule 80 PVC rigid nonmetallic conduit or the equivalent?",
+    "choices": ["True", "False"],
+    "code_reference": "2024 IRC 3803.3",
+    "correct_answer": "True"
+  },
+  {
+    "question": "Not readily accessible to persons unless special means for access are used.",
+    "choices": ["Terminated", "Isolated", "Neutralized", "Separated"],
+    "code_reference": "2024 IRC 35",
+    "correct_answer": "Isolated"
+  }
+]
