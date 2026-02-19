@@ -20,7 +20,7 @@ questions = load_questions()
 # --- Get current question ---
 current = questions[st.session_state.question_index]
 
-st.title("B2 Flashcard Quiz")
+st.title("P1 Flashcard Quiz")
 
 st.subheader(current["question"])
 on = st.toggle("Show Code Reference", False)
