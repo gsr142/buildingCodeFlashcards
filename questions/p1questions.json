@@ -1,0 +1,1109 @@
+[
+  {
+    "question": "The minimum air gap distance in inches for lavatories and other fixtures with effective opening not greater than 1/2 inch in diameter that are close to a wall is:",
+    "choices": [
+      "2 inches",
+      "2.5 inches",
+      "1.5 inches",
+      "1 inch"
+    ],
+    "correct_answer": "1.5 inches",
+    "code_reference": "Table P2902.3.1 Minimum Air Gaps"
+  },
+  {
+    "question": "A wet 4 inch vent can handle venting for ___________ fixture unit loads.",
+    "choices": [
+      "4 fixture unit loads",
+      "6 fixture unit loads",
+      "12 fixture unit loads",
+      "32 fixture unit loads"
+    ],
+    "correct_answer": "32 fixture unit loads",
+    "code_reference": "Table P3108.3 Wet Vent Size"
+  },
+  {
+    "question": "Upon completion of the water supply system or a section thereof, the system, or portion completed, must be tested and proved tight under a water pressure not less __________________.",
+    "choices": [
+      "20 psi",
+      "40 psi",
+      "80 psi",
+      "than the working pressure of the system"
+    ],
+    "correct_answer": "than the working pressure of the system",
+    "code_reference": "P2503.7 Water-supply system testing"
+  },
+  {
+    "question": "Flush tanks must be equipped with an _______________ fill valve approved by the plumbing code.",
+    "choices": [
+      "standard ball or gate",
+      "check valve",
+      "antisiphon",
+      "low pressure vacuum breaker"
+    ],
+    "correct_answer": "antisiphon",
+    "code_reference": "P2902.4.1 Fill valves"
+  },
+  {
+    "question": "Supply loads in the building water distribution system must be determined by total load on the pipe being sized, in terms of _______________________________________________.",
+    "choices": [
+      "water load units (w.l.u)",
+      "water usage unit values (w.u.u.v)",
+      "water supply fixture units (w.s.f.u.)",
+      "none of the above"
+    ],
+    "correct_answer": "water supply fixture units (w.s.f.u.)",
+    "code_reference": "P2903.6 Determining water supply fixture units"
+  },
+  {
+    "question": "What is the drainage fixture unit value (d.f.u.) for a multiple-bath group of 3.5 baths.",
+    "choices": [
+      "5 drainage fixture units",
+      "8 drainage fixture units",
+      "10 drainage fixture units",
+      "11 drainage fixture units"
+    ],
+    "correct_answer": "11 drainage fixture units",
+    "code_reference": "Table P3004.1 Drainage Fixture Unit (D.F.U.) Values For Various Plumbing Fixtures"
+  },
+  {
+    "question": "Which of the following fitting can not be used for a change in direction of a DWV (drain, waste and vent) pipe system from vertical to horizontal.",
+    "choices": [
+      "Eighth bend",
+      "Long sweep",
+      "Sanitary tee",
+      "Short sweep"
+    ],
+    "correct_answer": "Sanitary tee",
+    "code_reference": "Table P3005.1 Fittings For Change In Direction"
+  },
+  {
+    "question": "Horizontal vent pipes forming branch vents must be at least _____ above the flood level rim of the highest fixture served.",
+    "choices": [
+      "6 inches",
+      "12 inches",
+      "18 inches",
+      "24 inches"
+    ],
+    "correct_answer": "6 inches",
+    "code_reference": "P3104.5 Height above fixtures"
+  },
+  {
+    "question": "What is the maximum number of fixture units allowed to be connected to a 4 inch pipe size building drain with a slop of 1/4 inch per foot.",
+    "choices": [
+      "50 fixture units",
+      "180 fixture units",
+      "216 fixture units",
+      "250 fixture units"
+    ],
+    "correct_answer": "216 fixture units",
+    "code_reference": "Table P3005.4.2 Maximum Number Of Fixture Units Allowed To Be Connected To The Building Drain, Building Drain Branches Or The Building Sewer"
+  },
+  {
+    "question": "Fold-down seats must be permitted in the shower, provided the required _________ dimension is maintained when the seat is in the ___________________.",
+    "choices": [
+      "1000 square-inch, folded-up position",
+      "1236 square-inch, folded-down position",
+      "900 square-inch, folded-down position",
+      "900 square-inch, folded-up position"
+    ],
+    "correct_answer": "900 square-inch, folded-up position",
+    "code_reference": "P2708.1 General, Exception 1"
+  },
+  {
+    "question": "In a lawn irrigation system, a valve must not be installed __________________ from an atmospheric vacuum breaker.",
+    "choices": [
+      "upstream",
+      "downstream",
+      "neither up stream nor downstream",
+      "all of the above"
+    ],
+    "correct_answer": "downstream",
+    "code_reference": "P2902.3.4 Atmospheric-type vacuum breakers"
+  },
+  {
+    "question": "The waste stack vent may receive the discharge of ___________________.",
+    "choices": [
+      "urinals",
+      "water closets",
+      "water closets or urinals",
+      "all of the above",
+      "none of the above"
+    ],
+    "correct_answer": "none of the above",
+    "code_reference": "P3109.1 Waste stack vent permitted"
+  },
+  {
+    "question": "Building sewer lines 8 inches and larger must have a manhole located not more than _________ from the junction of the building drain and building sewer and at intervals of not more than _________.",
+    "choices": [
+      "100 feet, 200 feet",
+      "200 feet, 400 feet",
+      "300 feet, 100 feet",
+      "400 feet, 200 feet"
+    ],
+    "correct_answer": "200 feet, 400 feet",
+    "code_reference": "P3005.2.2 Building sewers 8 inches and larger"
+  },
+  {
+    "question": "The water distribution and drainage system of any building or premises where plumbing fixtures are installed must be connected to a public water supply or sewer system, respectively, _______________.",
+    "choices": [
+      "if no private system is available",
+      "if the owner want public utilities",
+      "unless the property already has an approved well and septic system",
+      "if available"
+    ],
+    "correct_answer": "if available",
+    "code_reference": "P2602.1 General"
+  },
+  {
+    "question": "When determining the required size for water distribution piping the first step as outlined in the code is to:",
+    "choices": [
+      "obtain the static supply pressure that will be available from the water main from the water purveyor, or for an individual source",
+      "determine the pressure loss in the water service pipe based on the selected size of the water service.",
+      "determine the pressure loss from the water meter, based on the selected water meter size",
+      "just directly look it up in the table based on fixture outlet load"
+    ],
+    "correct_answer": "obtain the static supply pressure that will be available from the water main from the water purveyor, or for an individual source",
+    "code_reference": "P2903.7 size of water-service mains, branch mains and risers"
+  },
+  {
+    "question": "Vent terminals extending through the wall must terminate not less than _________________from a lot line and not less than _________________ above the highest grade elevation within _________________ in any direction horizontally of the vent terminal.",
+    "choices": [
+      "3 feet, 3 feet, 3 feet",
+      "5 feet, 5 feet, 5 feet,",
+      "10 feet, 10 feet, 10 feet",
+      "15 feet, 15 feet, 15 feet"
+    ],
+    "correct_answer": "10 feet, 10 feet, 10 feet",
+    "code_reference": "P3103.1.4 Sidewall vent terminal"
+  },
+  {
+    "question": "Potable water openings and outlets must be protected by_____________.",
+    "choices": [
+      "an air gap or hose connection backflow preventers",
+      "reduced pressure principle backflow preventers with atmospheric vent",
+      "atmospheric-type vacuum breaker",
+      "pressure-type vacuum breaker",
+      "any of those above"
+    ],
+    "correct_answer": "any of those above",
+    "code_reference": "P2902.3 Backflow protection"
+  },
+  {
+    "question": "There must be a ______________________ near the junction of the building drain and building sewer.",
+    "choices": [
+      "gate valve",
+      "cleanout",
+      "sump pit",
+      "check valve",
+      "sightglass"
+    ],
+    "correct_answer": "cleanout",
+    "code_reference": "P3005.2.7 Building drain and building sewer junction"
+  },
+  {
+    "question": "The minimum air gap distance in inches for sink, laundry trays, gooseneck back faucets and other fixtures with effective openings not greater than 3/4 inch in diameter that are away from a wall is:",
+    "choices": [
+      "1 inch",
+      "1.5 inches",
+      "2 inches",
+      "2.5 inches"
+    ],
+    "correct_answer": "3 inches",
+    "code_reference": "Table P2902.3.1 Minimum Air Gaps"
+  },
+  {
+    "question": "The waste stack must be vertical, and both horizontal and vertical offsets are ______________ between the lowest fixture drain connection and the highest fixture drain connection to the stack.",
+    "choices": [
+      "allowed",
+      "prohibited",
+      "are allowed if they are not more than 90 degrees",
+      "are allowed if they are not more than 45 degrees"
+    ],
+    "correct_answer": "prohibited",
+    "code_reference": "P3109.1 Waste stack vent permitted"
+  },
+  {
+    "question": "Every fixture drain must connect __________ to the waste stack.",
+    "choices": [
+      "separately",
+      "in common",
+      "horizontally",
+      "vertically"
+    ],
+    "correct_answer": "separately",
+    "code_reference": "P3109.2 Stack installation"
+  },
+  {
+    "question": "In areas where the 97.5-percent value for outside design temperature is 0°F or less, every vent extension through a roof or wall must be a minimum of ______ .",
+    "choices": [
+      "2 inches in diameter",
+      "3 inches in diameter",
+      "4 inches in diameter",
+      "2.5 inches in diameter"
+    ],
+    "correct_answer": "3 inches in diameter",
+    "code_reference": "P3103.2 Frost closure"
+  },
+  {
+    "question": "Gauges used for testing requiring a pressure of greater than 100 psi must utilize a testing gauge having increments of _______ psi or less.",
+    "choices": [
+      "2",
+      "5",
+      "8",
+      "10"
+    ],
+    "correct_answer": "5",
+    "code_reference": "P2503.9 Gauges"
+  },
+  {
+    "question": "Waste receptors must not be installed in ________________ or in any inaccessible or unventilated space such as a closet.",
+    "choices": [
+      "hallways",
+      "basements",
+      "garages",
+      "concealed spaces"
+    ],
+    "correct_answer": "concealed spaces",
+    "code_reference": "P2706.1 General"
+  },
+  {
+    "question": "Cleanouts are required to be installed at each change of direction of the drainage system greater than _______ .",
+    "choices": [
+      "90 degrees",
+      "90 degrees",
+      "60 degrees",
+      "45 degrees"
+    ],
+    "correct_answer": "45 degrees",
+    "code_reference": "P3005.2.3 Changes of direction"
+  },
+  {
+    "question": "Each trap and trapped fixture is permitted to be provided with ________________.",
+    "choices": [
+      "a trap tap",
+      "check valve",
+      "an individual vent",
+      "an anti-siphon device"
+    ],
+    "correct_answer": "an individual vent",
+    "code_reference": "P3105.1 Individual vent permitted"
+  },
+  {
+    "question": "The vent system serving each building drain must have at least one vent pipe that ______________________.",
+    "choices": [
+      "extends from the water main",
+      "is connected to the sewer line",
+      "extends to the outdoors",
+      "any of the above"
+    ],
+    "correct_answer": "extends to the outdoors",
+    "code_reference": "P3101.4 Extension outdoors"
+  },
+  {
+    "question": "Which of the following types of traps are prohibited.",
+    "choices": [
+      "Bell traps",
+      "P traps",
+      "bag traps",
+      "running traps",
+      "all of the above"
+    ],
+    "correct_answer": "all of the above",
+    "code_reference": "P3201.5 Prohibited trap designs"
+  },
+  {
+    "question": "Which of the following types of joints and connections are prohibited in DWV system pipes.",
+    "choices": [
+      "Cement or concrete",
+      "Mastic or hot-pour bituminous joints",
+      "Joints between different diameter pipes made with elastomeric rolling O-rings",
+      "Solvent-cement joints between different types of plastic pipe",
+      "all of the above"
+    ],
+    "correct_answer": "all of the above",
+    "code_reference": "P3003.2 Prohibited joints"
+  },
+  {
+    "question": "The load on DWV system piping must be computed in terms of ______________________ values as set forth in the code.",
+    "choices": [
+      "drainage fixture unit (d.f.u.)",
+      "drainage waste vent unit (d.w.v.u.)",
+      "pipe load fixture unit (p.l.f.u.)",
+      "none of the above"
+    ],
+    "correct_answer": "drainage fixture unit (d.f.u.)",
+    "code_reference": "P3004.1 Drainage fixture unit values"
+  },
+  {
+    "question": "The wall area above built in tubs having installed shower heads and in shower compartments must be constructed to form a _____________ joint with each other and with either the tub, receptor or shower floor.",
+    "choices": [
+      "sealed",
+      "water resistant",
+      "water repellant",
+      "water tight"
+    ],
+    "correct_answer": "water tight",
+    "code_reference": "P2708.1 General"
+  },
+  {
+    "question": "Protective shield plates must be a minimum of 0.062 inch thick steel, must cover the area of the pipe where the member is notched or bored and must extend a minimum of _____________ inches above sole plates and below top plates.",
+    "choices": [
+      "1 inches",
+      "1.25 inches",
+      "1.5 inches",
+      "2 inches"
+    ],
+    "correct_answer": "2 inches",
+    "code_reference": "P2603.2.1 Protection against physical damage"
+  },
+  {
+    "question": "The minimum size of the drain from the macerating toilet system is _______ in diameter.",
+    "choices": [
+      "0.75 inches",
+      "1 inch",
+      "1.25 inches",
+      "1.5 inches"
+    ],
+    "correct_answer": "0.75 inches",
+    "code_reference": "P3007.5 Macerating toilet systems"
+  },
+  {
+    "question": "Where the fixture drains connect at different levels, the common vent must connect as a ________ extension of the __________ drain.",
+    "choices": [
+      "horizontal, vertical",
+      "vertical, vertical",
+      "vertical, horizontal",
+      "horizontal, horizontal"
+    ],
+    "correct_answer": "vertical, vertical",
+    "code_reference": "P3107.3 Connection at different levels"
+  },
+  {
+    "question": "Traps must have a liquid seal not less than _____ and not more than _____.",
+    "choices": [
+      "1.5 inches, 3 inches",
+      "3 inches, 4 inches",
+      "2 inches, 4 inches",
+      "4 inches, 6 inches"
+    ],
+    "correct_answer": "2 inches, 4 inches",
+    "code_reference": "P3201.2 Trap seals"
+  },
+  {
+    "question": "In attics, crawl spaces and normally unoccupied concealed spaces that do not contain _______________, a fire sprinkler is not required.",
+    "choices": [
+      "heating appliances",
+      "fuel-fired equipment",
+      "water heaters",
+      "none of these"
+    ],
+    "correct_answer": "fuel-fired equipment",
+    "code_reference": "P2904.1.1 Required sprinkler locations, Exception 1"
+  },
+  {
+    "question": "When performing an air test of the DWV system, the portion under test must be maintained at a gauge pressure of _____ or _______ and must be held without introduction of additional air for a period of _____ .",
+    "choices": [
+      "15 pounds per square inch, 5 inches of mercury column, 10 minutes",
+      "10 pounds per square inch, 15 inches of mercury column, 5 minutes",
+      "5 pounds per square inch, 10 inches of mercury column, 10 minutes",
+      "5 pounds per square inch, 10 inches of mercury column, 15 minutes"
+    ],
+    "correct_answer": "5 pounds per square inch, 10 inches of mercury column, 15 minutes",
+    "code_reference": "P2503.5.1 Rough plumbing"
+  },
+  {
+    "question": "Additions, alterations, renovations or repairs to any plumbing system must conform to that required for a new plumbing system ___________________ the existing plumbing system to comply with all the requirements of the code.",
+    "choices": [
+      "also requiring",
+      "without requiring",
+      "including",
+      "none of these"
+    ],
+    "correct_answer": "without requiring",
+    "code_reference": "R102.7.1 Additions, alterations or repairs"
+  },
+  {
+    "question": "Where a roof is to be used for assembly, as a promenade, observation deck or sunbathing deck, or for similar purposes, open vent pipes must terminate not less than ____________________ above the roof.",
+    "choices": [
+      "1 foot",
+      "2 feet",
+      "7 feet",
+      "10 feet"
+    ],
+    "correct_answer": "7 feet",
+    "code_reference": "P3103.1.2 Roof produce or promenade"
+  },
+  {
+    "question": "What is the minimum size of a water meter and service piping in inches for a water supply system of 69 fixture units with a maximum developed length of 300 feet. The water pressure of the system is 35 psi.",
+    "choices": [
+      "3/4 inch",
+      "1 inch",
+      "1-1/4 inch",
+      "1-1/2 inch"
+    ],
+    "correct_answer": "1-1/2 inch",
+    "code_reference": "Table AP201.1 Minimum Size of Water Meters, Mains and Distribution Piping"
+  },
+  {
+    "question": "___________________________ may not be used in the drainage system.",
+    "choices": [
+      "Running threads and bands",
+      "male and female slip joints",
+      "compression joints",
+      "none of the above"
+    ],
+    "correct_answer": "Running threads and bands",
+    "code_reference": "P3003.2 Prohibited joints"
+  },
+  {
+    "question": "A automatic dishwashing machine's water supply must be protected by a(n) ___________________________.",
+    "choices": [
+      "air gap",
+      "integral backflow preventers",
+      "A or B",
+      "all of the above"
+    ],
+    "correct_answer": "A or B",
+    "code_reference": "P2717.1 Protection of water supply"
+  },
+  {
+    "question": "The maximum allowable distance of a 1-1/2 inch fixture trap from the vent fitting is _______ feet.",
+    "choices": [
+      "5 feet",
+      "6 feet",
+      "8 feet",
+      "12 feet"
+    ],
+    "correct_answer": "6 feet",
+    "code_reference": "Table P3105.1 Maximum Distance of Fixture Trap from Vent"
+  },
+  {
+    "question": "A __________________ is to be installed where quick-closing valves are utilized.",
+    "choices": [
+      "pressure reducing device",
+      "backflow prevention device",
+      "a check valve",
+      "water-hammer arrestor"
+    ],
+    "correct_answer": "water-hammer arrestor",
+    "code_reference": "P2903.5 Water-hammer"
+  },
+  {
+    "question": "What is the minimum wall thickness for lead bends and lead traps in inches?",
+    "choices": [
+      "1/16 inches",
+      "1/10 inches",
+      "1/8 inches",
+      "3/16 inches"
+    ],
+    "correct_answer": "1/8 inches",
+    "code_reference": "P3002.4.2 Lead bends and traps"
+  },
+  {
+    "question": "What is the minimum weight for sheet copper general use vent flashing?",
+    "choices": [
+      "8 ounces per square foot",
+      "12 ounces per square foot",
+      "16 ounces per square foot",
+      "18 ounces per square foot"
+    ],
+    "correct_answer": "8 ounces per square foot",
+    "code_reference": "Table P3002.4.4 Sheet Copper and Aluminum"
+  },
+  {
+    "question": "When testing the building sewer by insertion of a test plug at the point of connection, the water for the public sewer , testing should not be less than a _____ head of water and be able to maintain such pressure for _____ minutes.",
+    "choices": [
+      "10 foot, 15 minutes",
+      "6 foot, 10 minutes",
+      "20 foot, 30 minutes",
+      "15 foot, 10 minutes"
+    ],
+    "correct_answer": "10 foot, 15 minutes",
+    "code_reference": "P2503.4 Building sewer testing"
+  },
+  {
+    "question": "A forced hot water system has a system volume of 70 gallons. The system is a pressurized diaphragm type. What is the minimum expansion tank capacity to be used in this system.",
+    "choices": [
+      "10.5 gallons",
+      "9.0 gallons",
+      "6.5 gallons",
+      "6.0 gallons"
+    ],
+    "correct_answer": "6.0 gallons",
+    "code_reference": "Table P2903.9.2 Expansion Tank Capacities"
+  },
+  {
+    "question": "Inspections must be made of all backflow prevention assemblies to determine whether they are _______________.",
+    "choices": [
+      "operable",
+      "the siphon type",
+      "in line",
+      "none of the above"
+    ],
+    "correct_answer": "operable",
+    "code_reference": "P2503.8.1 Inspections"
+  },
+  {
+    "question": "What is the water supply fixture unit value for a kitchen group (dishwasher and sink with/without garbage grinder) for combined hot and cold water branches.",
+    "choices": [
+      "1.0 fixture units",
+      "1.9 fixture units",
+      "2.5 fixture units",
+      "3.6 fixture units"
+    ],
+    "correct_answer": "2.5 fixture units",
+    "code_reference": "Table P2903.6 Water Supply Fixture Unit Values"
+  },
+  {
+    "question": "Joints in plastic piping must be made with approved fittings by _____________________________________________.",
+    "choices": [
+      "solvent cementing",
+      "heat fusion",
+      "corrosion-resistant metal clamps with insert fittings or compression connections",
+      "any of the above"
+    ],
+    "correct_answer": "any of the above",
+    "code_reference": "P2906.9 Plastic pipe joints"
+  },
+  {
+    "question": "An open vent terminal from a drainage system may not be located within ______ horizontally of any door, openable window, or other air intake opening of the building or of an adjacent building unless it is at least ______ above the top of such opening.",
+    "choices": [
+      "10 feet, 3 feet",
+      "2 feet, 10 feet",
+      "10 feet, 5 feet",
+      "5 feet, 10 feet"
+    ],
+    "correct_answer": "10 feet, 3 feet",
+    "code_reference": "P3103.5 Location of vent terminal"
+  },
+  {
+    "question": "What is the drainage fixture unit value (d.f.u.) for a bathtub (with or without shower head and/or whirlpool attachments).",
+    "choices": [
+      "1 drainage fixture units",
+      "2 drainage fixture units",
+      "3 drainage fixture units",
+      "4 drainage fixture units"
+    ],
+    "correct_answer": "2 drainage fixture units",
+    "code_reference": "Table P3004.1 Drainage Fixture Unit (D.F.U.) Values For Various Plumbing Fixtures"
+  },
+  {
+    "question": "Burred ends must be reamed _______________________.",
+    "choices": [
+      "to the full bore of the pipe",
+      "to within 10% of full bore",
+      "enlarge the pipes ID",
+      "all of the above"
+    ],
+    "correct_answer": "to the full bore of the pipe",
+    "code_reference": "P2608.1 General"
+  },
+  {
+    "question": "All water distribution pipe and tubing must have a minimum pressure rating of _________________ at 180°F.",
+    "choices": [
+      "90 psi",
+      "100 psi",
+      "125 psi",
+      "180 psi"
+    ],
+    "correct_answer": "100 psi",
+    "code_reference": "P2906.5 Water distribution pipe"
+  },
+  {
+    "question": "Sidewall fire sprinklers within ____________ of the center of a ceiling fan, surface-mounted ceiling luminaire or similar object must be considered to be obstructed, and additional sprinklers must be installed.",
+    "choices": [
+      "1 feet",
+      "2 feet",
+      "3 feet",
+      "5 feet"
+    ],
+    "correct_answer": "3 feet",
+    "code_reference": "P2904.2.4.2.2 Sidewall sprinklers"
+  },
+  {
+    "question": "Any combination of fixtures within two bathroom groups located on the same floor level are permitted to be vented by a ___________.",
+    "choices": [
+      "interior vent",
+      "horizontal wet vent",
+      "stack vent",
+      "vent stack"
+    ],
+    "correct_answer": "horizontal wet vent",
+    "code_reference": "P3108.1 Horizontal wet vent permitted"
+  },
+  {
+    "question": "Pipes must be supported at ______________.",
+    "choices": [
+      "the connections",
+      "each joint",
+      "sufficiently close intervals to maintain alignment and prevent sagging",
+      "all of the above"
+    ],
+    "correct_answer": "sufficiently close intervals to maintain alignment and prevent sagging",
+    "code_reference": "P2605.1 General"
+  },
+  {
+    "question": "Shower compartments and stalls must have at least _______ square inches of interior cross-sectional area.",
+    "choices": [
+      "700",
+      "800",
+      "900",
+      "1000"
+    ],
+    "correct_answer": "900 square inches",
+    "code_reference": "P2708.1 General"
+  },
+  {
+    "question": "The water service pipe must be separated from the building sewer by ______________ of undisturbed or compacted earth.",
+    "choices": [
+      "1 foot",
+      "2 feet",
+      "5 feet",
+      "10 feet"
+    ],
+    "correct_answer": "5 feet",
+    "code_reference": "P2906.4.1 Water service separation"
+  },
+  {
+    "question": "What is the drainage fixture unit value (d.f.u.) for a clothes washer standpipe.",
+    "choices": [
+      "1 drainage fixture units",
+      "2 drainage fixture units",
+      "3 drainage fixture units",
+      "4 drainage fixture units"
+    ],
+    "correct_answer": "2 drainage fixture units",
+    "code_reference": "Table P3004.1 Drainage Fixture Unit (D.F.U.) Values For Various Plumbing Fixtures"
+  },
+  {
+    "question": "Each building must have a main vent that is either a ________________ or a ______________.",
+    "choices": [
+      "stack vent, vent stack",
+      "wet vent, dry vent",
+      "vertical vent, horizontal vent",
+      "none of the above"
+    ],
+    "correct_answer": "stack vent, vent stack",
+    "code_reference": "P3101.3 Connection of vents"
+  },
+  {
+    "question": "Cleanouts must be installed ________________________.",
+    "choices": [
+      "to open in the direction of the flow of the drainage line",
+      "at right angles to the flow of the drainage line",
+      "both A and B",
+      "none of the above"
+    ],
+    "correct_answer": "to open in the direction of the flow of the drainage line",
+    "code_reference": "P3005.2.8 Installation arrangement"
+  },
+  {
+    "question": "Potable water supply systems must be installed in such a manner to prevent _______________.",
+    "choices": [
+      "contamination from non-potable liquids, solids or gases being introduced into the potable water supply.",
+      "contamination from potable liquids, solids or gases being introduced into the potable water supply.",
+      "contamination from the water main.",
+      "none of the above"
+    ],
+    "correct_answer": "contamination from non-potable liquids, solids or gases being introduced into the potable water supply.",
+    "code_reference": "P2902.1 General"
+  },
+  {
+    "question": "Joints between different diameter pipes made with ______________ are prohibited in the drainage system.",
+    "choices": [
+      "elbows",
+      "tees",
+      "elastomeric rolling O-rings",
+      "any of the above"
+    ],
+    "correct_answer": "elastomeric rolling O-rings",
+    "code_reference": "P3003.2 Prohibited joints"
+  },
+  {
+    "question": "What is the maximum number of fixture units allowed to be connected to a 3 inch pipe size building drain with a slop of 1/8 inch per foot.",
+    "choices": [
+      "20 fixture units",
+      "36 fixture units",
+      "42 fixture units",
+      "72 fixture units"
+    ],
+    "correct_answer": "36 fixture units",
+    "code_reference": "Table P3005.4.2 Maximum Number Of Fixture Units Allowed To Be Connected To The Building Drain, Building Drain Branches Or The Building Sewer"
+  },
+  {
+    "question": "The water supply fixture unit (w.s.f.u.) for a whole house group of 2.5 baths is:",
+    "choices": [
+      "4.5 fixture units",
+      "5.5 fixture units",
+      "6.5 fixture units",
+      "8.5 fixture units"
+    ],
+    "correct_answer": "5.5 fixture units",
+    "code_reference": "Table P2903.6 Water Supply Fixture Unit Values For Various Plumbing Fixtures And Fixture Groups"
+  },
+  {
+    "question": "Cleanouts must be of the same size as the piping served, but need not be larger than ___________.",
+    "choices": [
+      "2 inches",
+      "3 inches",
+      "4 inches",
+      "6 inches"
+    ],
+    "correct_answer": "4 inches",
+    "code_reference": "P3005.2.5 Cleanout size"
+  },
+  {
+    "question": "The fire sprinkler system water supply must be capable of providing the required design flow rate for _______________.",
+    "choices": [
+      "5 minutes",
+      "10 minutes",
+      "15 minutes",
+      "30 minutes"
+    ],
+    "correct_answer": "10 minutes",
+    "code_reference": "P2904.5.1.2 Required capacity"
+  },
+  {
+    "question": "Individual vents must have a minimum diameter of __________ .",
+    "choices": [
+      "1-1/4 inches",
+      "1-1/2 inches",
+      "2 inches",
+      "3 inches"
+    ],
+    "correct_answer": "1-1/4 inches",
+    "code_reference": "P3113.1 Size of vents"
+  },
+  {
+    "question": "Plumbing fixtures, drains and appliances used to receive or discharge liquid wastes or sewage must be connected to the _____________________ system of the building or premises in accordance with the requirements of the code.",
+    "choices": [
+      "sanitary drainage",
+      "storm sewer",
+      "sump pump drainage",
+      "none of the above"
+    ],
+    "correct_answer": "sanitary drainage",
+    "code_reference": "P2501.1 Scope"
+  },
+  {
+    "question": "What is the water supply fixture unit value for a half-bath group (water closet and lavatory) for the cold water branch.",
+    "choices": [
+      "0.5 fixture units",
+      "2.5 fixture units",
+      "2.6 fixture units",
+      "1 fixture units"
+    ],
+    "correct_answer": "2.5 fixture units",
+    "code_reference": "Table P2903.6 Water Supply Fixture Unit Values"
+  },
+  {
+    "question": "What is the required flow rate, in gallons per minute, at point of outlet discharge for a water supply outlet providing water to a dishwasher.",
+    "choices": [
+      "2.75 gallons per minute",
+      "2.5 gallons per minute",
+      "1.6 gallons per minute",
+      "3 gallons per minute"
+    ],
+    "correct_answer": "2.75 gallons per minute",
+    "code_reference": "Table P2903.1 Required Capacities At Point Of Outlet Discharge"
+  },
+  {
+    "question": "Bathtubs must have outlets and overflows at least _____ in diameter, and the waste outlet must be equipped with an approved stopper.",
+    "choices": [
+      "1.25 inches",
+      "1.5 inches",
+      "1.75 inches",
+      "2 inches"
+    ],
+    "correct_answer": "1.5 inches",
+    "code_reference": "P2713.1 Bathtub waste outlets and overflows"
+  },
+  {
+    "question": "What is the water supply fixture unit value for a kitchen sink for the cold water branch.",
+    "choices": [
+      "0.5 fixture units",
+      "1.0 fixture units",
+      "1.4 fixture units",
+      "1.8 fixture units"
+    ],
+    "correct_answer": "1.0 fixture units",
+    "code_reference": "Table P2903.6 Water Supply Fixture Unit Values"
+  },
+  {
+    "question": "What is the minimum sized trap that can be used for the drainage system of a kitchen sink (one or two traps, with or without dishwasher and garbage grinder).",
+    "choices": [
+      "1-1/4 inch",
+      "1-1/2 inch",
+      "2 inch",
+      "2-1/2 inch"
+    ],
+    "correct_answer": "1-1/2 inch",
+    "code_reference": "Table P3201.7 Size of Traps for Plumbing Fixtures"
+  },
+  {
+    "question": "The minimum size of the water service pipe is _____.",
+    "choices": [
+      "3/4 inches",
+      "1 inch",
+      "1.25 inches",
+      "1.5 inches"
+    ],
+    "correct_answer": "3/4 inches",
+    "code_reference": "P2903.7 size of water-service mains"
+  },
+  {
+    "question": "When either a public water-supply or sewer system, or both, are not available, _______________________, an individual water-supply or individual sewage-disposal system, or both, must be provided.",
+    "choices": [
+      "or connection thereto is not feasible",
+      "or the owner does not want to use public systems",
+      "or there is good potable water wells in the area",
+      "none of the above"
+    ],
+    "correct_answer": "or connection thereto is not feasible",
+    "code_reference": "P2602.1 General"
+  },
+  {
+    "question": "Backflow preventers with intermediate atmospheric vents are permitted to be installed where subject to ____________ pressure conditions.",
+    "choices": [
+      "variable",
+      "intermittent",
+      "continuous",
+      "none of the above"
+    ],
+    "correct_answer": "continuous",
+    "code_reference": "P2902.3.3 Backflow preventer with intermediate atmospheric vent"
+  },
+  {
+    "question": "A water heater pan drain must extend full-size and terminate over a suitably located indirect waste receptor or must extend to the exterior of the building and terminate not less than _____ and not more than _____ above the adjacent ground surface.",
+    "choices": [
+      "8 inches, 30 inches",
+      "24 inches, 48 inches",
+      "6 inches, 24 inches",
+      "12 inches, 30 inches"
+    ],
+    "correct_answer": "6 inches, 24 inches",
+    "code_reference": "P2801.6.2 Pan drain termination"
+  },
+  {
+    "question": "Access to water heaters that are located in an attic or under floor crawl space is not permitted to be through a closet located in a _______________ or bathroom where ventilation of those spaces is in accordance with the code.",
+    "choices": [
+      "sleeping room",
+      "kitchen",
+      "garage",
+      "none of the above"
+    ],
+    "correct_answer": "sleeping room",
+    "code_reference": "M2005.2 Prohibited locations"
+  },
+  {
+    "question": "The procedure for determination of the required size for water distribution piping as outlined in the code is a procedure with how many steps?",
+    "choices": [
+      "1 step",
+      "4 steps",
+      "6 steps",
+      "8 steps"
+    ],
+    "correct_answer": "8 steps",
+    "code_reference": "P2903.7 size of water-service mains"
+  },
+  {
+    "question": "Shower compartments must not be less than ________ in minimum dimension measured from the finished interior dimension of the shower compartment, exclusive of fixture valves, shower heads, soap dishes, and safety grab bars or rails.",
+    "choices": [
+      "30 inches",
+      "32 inches",
+      "36 inches",
+      "38 inches"
+    ],
+    "correct_answer": "30 inches",
+    "code_reference": "P2708.1 General"
+  },
+  {
+    "question": "Slip-joint connections may be installed only for tubular waste piping and only between the trap outlet of a fixture and the connection to the drainage piping. Slipjoint connections must be made with an approved _______________.",
+    "choices": [
+      "PVC type plastic",
+      "ASB type plastic",
+      "collapsible membrane",
+      "elastomeric sealing gasket"
+    ],
+    "correct_answer": "elastomeric sealing gasket",
+    "code_reference": "P3003.11 Slip joints"
+  },
+  {
+    "question": "The minimum pipe size from the water supply source to any fire sprinkler is ____________ nominal.",
+    "choices": [
+      "1/2 inch",
+      "3/4 inch",
+      "1 inch",
+      "1-1/4 inch"
+    ],
+    "correct_answer": "3/4 inch",
+    "code_reference": "P2904.3.1.2 Pipe size"
+  },
+  {
+    "question": "When over excavated, a trench use for pipe buried in the ground, the trench must be backfilled to the proper grade with __________ earth, sand, fine gravel or similar granular material.",
+    "choices": [
+      "a soft fluffy bed of",
+      "compacted",
+      "loose fill of",
+      "any of the above"
+    ],
+    "correct_answer": "compacted",
+    "code_reference": "P2604.1 Trenching and bedding"
+  },
+  {
+    "question": "What is the minimum sized trap that can be used for the drainage system of a shower.",
+    "choices": [
+      "1-1/4 inch",
+      "1-1/2 inch",
+      "2 inch",
+      "2-1/2 inch"
+    ],
+    "correct_answer": "2 inch",
+    "code_reference": "Table P3201.7 Size of Traps for Plumbing Fixtures"
+  },
+  {
+    "question": "For water supply systems used predominantly for flush tanks having a water supply fixture unit load of 50, what is the comparable demand in gallons per minute.",
+    "choices": [
+      "29.1 gallons per minute",
+      "40.6 gallons per minute",
+      "50 gallons per minute",
+      "58.3 gallons per minute"
+    ],
+    "correct_answer": "29.1 gallons per minute",
+    "code_reference": "Table P2903.6(1) Conversions From Water Supply Fixture Unit To Gallon Per Minute Flow Rates"
+  },
+  {
+    "question": "The minimum air gap distance in inches for over-rim bath fillers and other fixtures with effective openings not greater than 1 inch in diameter that are away from a wall is:",
+    "choices": [
+      "1 inch",
+      "2 inches",
+      "2.5 inches",
+      "3 inches"
+    ],
+    "correct_answer": "2 inches",
+    "code_reference": "Table P2902.3.1 Minimum Air Gaps"
+  },
+  {
+    "question": "The dishwasher waste line must _____________________________ before connecting to the sink tailpiece.",
+    "choices": [
+      "rise and securely fastened to the underside of the counter",
+      "be connected to a gate valve",
+      "be connected to the garbage disposer and clamped with a band clamp.",
+      "be increased in size to 1.5 inches diameter"
+    ],
+    "correct_answer": "rise and securely fastened to the underside of the counter",
+    "code_reference": "P2717.2 Sink and dishwasher"
+  },
+  {
+    "question": "The required size of the vent section of a horizontal branch drain must be at least one-half of the diameter of the drain served, and the size must be ________________________.",
+    "choices": [
+      "not less than 1.5 inches",
+      "not less than 2 inches",
+      "the same size as the drain",
+      "the largest horizontal branch connected"
+    ],
+    "correct_answer": "the largest horizontal branch connected",
+    "code_reference": "P3005.4.1 Fixture branch and stack sizing"
+  },
+  {
+    "question": "Water service and water distribution piping must be chosen based on the potential for __________________________________________________________________.",
+    "choices": [
+      "backflow and siphonage issues",
+      "leaks and water hammer",
+      "permeation, corrosion, degradation or structural failure of the water service or water distribution piping material",
+      "none of the above"
+    ],
+    "correct_answer": "permeation, corrosion, degradation or structural failure of the water service or water distribution piping material",
+    "code_reference": "P2906.1 Soil and groundwater"
+  },
+  {
+    "question": "A domestic dishwasher must be protected from backflow by __________________ .",
+    "choices": [
+      "vertically",
+      "horizontally",
+      "diagonally",
+      "any of the above"
+    ],
+    "correct_answer": "vertically",
+    "code_reference": "P2902.3.1 Air gaps"
+  },
+  {
+    "question": "Shower compartments and stalls must have at least _______ square inches of interior cross-sectional area.",
+    "choices": [
+      "700 square inches",
+      "800 square inches",
+      "900 square inches",
+      "1000 square inches"
+    ],
+    "correct_answer": "900 square inches",
+    "code_reference": "P2708.1 General"
+  },
+  {
+    "question": "Each building must have a main vent that is either a stack vent or a vent stack. The main vent must be ___________________________ to the building drain.",
+    "choices": [
+      "not less than half the size",
+      "a least equal to the size",
+      "not more than twice the size",
+      "any of the above"
+    ],
+    "correct_answer": "a least equal to the size",
+    "code_reference": "P3109.3 Stack vent"
+  },
+  {
+    "question": "Hose connection backflow preventers must be used on all hose-threaded outlets except ________________.",
+    "choices": [
+      "washing machine connections",
+      "water heater drains",
+      "boiler drains",
+      "sillcocks",
+      "any of the above"
+    ],
+    "correct_answer": "any of the above",
+    "code_reference": "P2902.4.3 Hose connection"
+  },
+  {
+    "question": "Backfill must be installed in __________________ and tamped in a manner that will not damage the pipe.",
+    "choices": [
+      "12 inch layers",
+      "6 inch layers",
+      "18 inch layers",
+      "24 inch layers"
+    ],
+    "correct_answer": "6 inch layers",
+    "code_reference": "P2604.3 Backfilling"
+  },
+  {
+    "question": "A fire sprinkler system water supply must be capable of providing the required design flow rate for 10 minutes. The design flow rate for a single sprinkler must be the greater of the flow rate based on the sprinklers' listed K-factor and ____________________.",
+    "choices": [
+      "a discharge density of 0.05 gpm/ft2",
+      "a discharge density of 0.10 gpm/ft2",
+      "a discharge density of 0.15 gpm/ft2",
+      "a discharge density of 0.20 gpm/ft2",
+      "A and C"
+    ],
+    "correct_answer": "A and C",
+    "code_reference": "P2904.5.2 Required capacity"
+  },
+  {
+    "question": "The minimum required air gap must be measured vertically from the lowest end of a water supply outlet to the flood-level rim of the fixture or receptor. The required air gap is ________________ the effective opening of the water supply outlet.",
+    "choices": [
+      "equal to",
+      "half",
+      "three times",
+      "twice"
+    ],
+    "correct_answer": "twice",
+    "code_reference": "P2902.3.1 Air gaps"
+  },
+  {
+    "question": "The required capacity at the point of outlet discharge for a shower is ___________________________.",
+    "choices": [
+      "1.5 gallons per minute (gpm)",
+      "2.5 gallons per minute (gpm)",
+      "3.0 gallons per minute (gpm)",
+      "20 pounds per square inch (psi)"
+    ],
+    "correct_answer": "20 pounds per square inch (psi)",
+    "code_reference": "Table P2903.1 Required Capacities At Point Of Outlet Discharge"
+  }
+]

@@ -3,7 +3,7 @@ import json
 import random
 
 # --- Load Questions ---
-def load_questions(file_path="questions.json"):
+def load_questions(file_path="questions/p1questions.json"):
     with open(file_path, "r") as f:
         return json.load(f)
 
