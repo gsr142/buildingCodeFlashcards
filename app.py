@@ -14,7 +14,14 @@ if "show_answer" not in st.session_state:
     st.session_state.show_answer = False
 
 # --- Load and shuffle questions ---
-questions = load_questions()
+if "questions" not in st.session_state:
+    # Load and shuffle questions on first run
+    questions = load_questions()
+    random.shuffle(questions)
+    st.session_state.questions = questions
+
+# --- Access the shuffled questions from session state ---
+questions = st.session_state.questions
 # next feature to add: randomize the order of the questions
 
 # --- Get current question ---
