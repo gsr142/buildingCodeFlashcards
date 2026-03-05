@@ -1,0 +1,122 @@
+[
+  {
+    "question": "When cutting a hole in a wood floor joist, the hole must be a minimum of __________ inch(es) from the top and the bottom of the joist.",
+    "choices": ["1", "2", "3", "4"],
+    "correct_answer": "2",
+    "code_reference": "R502.8.1 Sawn lumber (Notching and Boring)"
+  },
+  {
+    "question": "A den in a 1 story single family dwelling is 12 feet by 30 feet. What would the minimum area of the glazing for the windows in that den?",
+    "choices": ["8.5 square feet", "12.4 square feet", "22.4 square feet", "28.8 square feet"],
+    "correct_answer": "28.8 square feet",
+    "code_reference": "R303.1 Habitable rooms"
+  },
+  {
+    "question": "What is the maximum span for a header constructed of 2 2X6s southern pine in building 36 feet wide and supporting the roof and ceiling. The ground snow load is 50 psf.",
+    "choices": ["3 feet 3 inches", "4 feet 1 inches", "3 feet 6 inches", "4 feet 8 inches"],
+    "correct_answer": "3 feet 3 inches",
+    "code_reference": "Table R602.7(1) Girder Spans and Header Spans for Exterior Bearing Walls"
+  },
+  {
+    "question": "Chimneys shall extend at least _____ feet higher than any portion of a building within _____ feet, but shall not be less than _____ feet above the highest point where the chimney passes through the roof.",
+    "choices": ["3, 12, 6", "4, 4, 3", "2, 10, 3", "2, 8, 3"],
+    "correct_answer": "2, 10, 3",
+    "code_reference": "R1003.9 Termination"
+  },
+  {
+    "question": "Openings in doors through which a ______ inch sphere is unable to pass is not considered a hazardous location with respect to glazing.",
+    "choices": ["3", "6", "9", "12"],
+    "correct_answer": "3",
+    "code_reference": "R308.4.1 Glazing in doors (Exception 2)"
+  },
+  {
+    "question": "What is the maximum rafter span for #1 S-P-F 2X12 spaced 16 inches OC with a ground snow load of 30 PSF and a dead load of 20 PSF with the ceiling not attached to the rafters.",
+    "choices": ["16-6", "13-6", "23-6", "19-2"],
+    "correct_answer": "19-2",
+    "code_reference": "Table R802.4.1(5) Rafter Spans for Common Lumber Species"
+  },
+  {
+    "question": "In cold formed steel framing end joist that are constructed on foundation walls parallel to the joist span _____________,",
+    "choices": ["are not allowed", "require no additional reinforcement", "shall be doubled", "shall be doubled unless a C-shaped bearing stiffener of proper size is used."],
+    "correct_answer": "shall be doubled unless a C-shaped bearing stiffener of proper size is used.",
+    "code_reference": "R505.3.1 Floor-to-foundation or load-bearing wall connections"
+  },
+  {
+    "question": "The triangular openings formed by the riser, tread and bottom rail of a guard at the open side of a stairway are permitted to be of such a size that a sphere _________ inches cannot pass through.",
+    "choices": ["4", "6", "8", "12"],
+    "correct_answer": "6",
+    "code_reference": "R312.1.3 Guard opening limitations (Exception 2)"
+  },
+  {
+    "question": "An exterior wall element is required to be fire-resistance rated, there is another structure less than 5 feet of the fire-resistance rated wall. Is this a violation of the code?",
+    "choices": ["Yes", "No", "Code does not apply here.", "not enough information to answer"],
+    "correct_answer": "No",
+    "code_reference": "Table R302.1(1) Exterior Walls"
+  },
+  {
+    "question": "A _____ inch thick base course consisting of clean graded sand, gravel, crushed stone, crushed concrete or crushed blast-furnace slag passing a 2- inch sieve shall be placed on the prepared subgrade where the slab is below grade.",
+    "choices": ["2", "3", "4", "5"],
+    "correct_answer": "4",
+    "code_reference": "R506.2.2 Base"
+  },
+  {
+    "question": "Support columns must be restrained to prevent lateral displacement at the ________ end(s).",
+    "choices": ["bottom", "top", "both", "any of the above"],
+    "correct_answer": "both",
+    "code_reference": "R407.3 Structural requirements"
+  },
+  {
+    "question": "Handrails with a circular cross section must have an outside diameter of at least _________ inches and not greater than _________ inches .",
+    "choices": ["1 3/4, 2", "1 1/4, 2 1/2", "1 1/4, 2", "1, 2 1/4"],
+    "correct_answer": "1 1/4, 2",
+    "code_reference": "R311.7.8.5 Grip-size (Type I)"
+  },
+  {
+    "question": "A bedroom in a single family dwelling is 16 feet by 14 feet. What would the minimum area of the glazing for the windows in that bedroom?",
+    "choices": ["8.54 square feet", "17.92 square feet", "22.42 square feet", "32.26 square feet"],
+    "correct_answer": "17.92 square feet",
+    "code_reference": "R303.1 Habitable rooms"
+  },
+  {
+    "question": "On exterior walls that require bracing, walls parallel to a braced wall that are part of that bracing structure line must not be offset more than _____________ from the designated braced wall line location.",
+    "choices": ["1 foot", "2 feet", "4 feet", "6 feet"],
+    "correct_answer": "4 feet",
+    "code_reference": "R602.10.1.2 Location of braced wall lines"
+  },
+  {
+    "question": "What is the minimum thickness for a concrete slab-on-ground floor in inches?",
+    "choices": ["4.5", "4", "3", "3.5"],
+    "correct_answer": "3.5",
+    "code_reference": "R506.1 General (Floor Systems)"
+  },
+  {
+    "question": "Ionization smoke alarms must not be installed less than _______________ horizontally from a permanently installed cooking appliance.",
+    "choices": ["3 feet", "10 feet", "15 feet", "20 feet"],
+    "correct_answer": "20 feet",
+    "code_reference": "R314.3.1 Installation near cooking appliances (Item 2)"
+  },
+  {
+    "question": "A beam is supporting one end of the joists on a typical deck. The live load of the deck is 40 pounds per square foot. The beam is constructed of Douglas Fir, 3- 2X6s. What is the maximum span for this beam between column posts if the effective deck joist span is 12 feet?",
+    "choices": ["4 feet 2 inches", "5 feet 6 inches", "6 feet 2 inches", "7 feet 4 inches"],
+    "correct_answer": "4 feet 2 inches",
+    "code_reference": "Table R507.5 Deck Beam Spans"
+  },
+  {
+    "question": "Foam plastics may be used without a thermal barrier where the foam plastic is protected by a minimum _____ inch(es) thickness of masonry or concrete.",
+    "choices": ["1", "2", "3", "4"],
+    "correct_answer": "1",
+    "code_reference": "R316.5.1 Masonry or concrete"
+  },
+  {
+    "question": "Can 2x4 wood studs 16 inches OC legally be used on the bottom story exterior bearing walls of a three story home?",
+    "choices": ["Yes", "No"],
+    "correct_answer": "No",
+    "code_reference": "Table R602.3(5) Size, Height and Spacing of Wood Studs"
+  },
+  {
+    "question": "Habitable rooms in each dwelling unit must have at least _________ square feet of gross floor area.",
+    "choices": ["70", "100", "120", "180"],
+    "correct_answer": "70",
+    "code_reference": "R304.1 Minimum area"
+  }
+]
